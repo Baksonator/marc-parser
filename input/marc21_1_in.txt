@@ -1,0 +1,44 @@
+LDR 01142cam**2200301*a*4500
+001  92005291
+003  DLC
+005  19930521155141.9
+008  920219s1993 caua j 000 0 eng
+010 ## $a92005291
+020 ## $a0152038655 :$c$15.95
+040 ## $aDLC$cDLC$dDLC
+042 ## $alcac
+050 00 $aPS3537.A618$bA88 1993
+082 00 $220$a811/.52
+100 1# $aSandburg, Carl,$d1878-1967.
+245 10 $aArithmetic /$cCarl Sandburg ; illustrated as an anamorphic adventure by Ted Rand.
+250 ## $a1st ed.
+260 ## $aSan Diego :$bHarcourt Brace Jovanovich,$cc1993.
+300 ## $a1 v. (unpaged) :$bill. (some col.) ;$c26 cm.
+500 ## $aOne Mylar sheet included in pocket.
+520 ## $aA poem about numbers and their characteristics. Features anamorphic, or distorted, drawings which can be restored to normal by viewing from a particular angle or by viewing the image's reflection in the provided Mylar cone.
+650 #0 $aArithmetic$xJuvenile poetry.
+650 #0 $aChildren's poetry, American.
+650 #1 $aArithmetic$xPoetry.
+650 #1 $aAmerican poetry.
+650 #1 $aVisual perception.
+700 1# $aRand, Ted,$eill.
+000 00888cam a2200253u 4500
+001 6840872
+005 20190127101238.0
+007 cr_|||||||||||
+008 820625s1917 ctuab 000 0 eng
+906 __ |a 0 |b cbc |c premunv |d u |e ncip |f 19 |g y-gencatlg
+010 __ |a 17025544
+035 __ |9 (DLC) 17025544
+040 __ |a DLC |c CarP |d DLC
+050 00 |a PR2810.A2 |b H4
+100 1_ |a Shakespeare, William, |d 1564-1616.
+245 14 |a The first part of King Henry the Fourth,
+260 __ |a New Haven, |b Yale university press; [etc., etc.] |c 1917.
+300 __ |a 4 p. |b l., 148 p. illus. (map) |c 18 cm.
+530 __ |a Also available in digital form.
+600 00 |a Henry |b IV, |c King of England, |d 1367-1413 |x Drama.
+700 1_ |a Hemingway, Samuel Burdett, |d 1883-1958, |e ed.
+856 41 |u http://hdl.loc.gov/loc.gdc/scd0001.00139980359
+991 __ |b c-GenColl |h PR2810.A2 |i H4 |t Copy 1 |w PREM
+985 __ |a massdig |e sloan
