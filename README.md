@@ -1,6 +1,6 @@
 # MARC parser
 
-A parser for the MARC format for bibliographic data. The MARC standard is used for describing the structure that is cataloged in libraries, for example books.
+A parser for the MARC format for bibliographic data using the Parsec library. The MARC standard is used for describing the structure that is cataloged in libraries, for example books.
 
 ## Description
 
