@@ -4,7 +4,7 @@ A parser for the MARC format for bibliographic data using the Parsec library. Th
 
 ## Description
 
-MARC is an abberivation of Machine-Readable Cataloging and it represents a collection of different standards for representing the metadata of books, magazines etc. The metadata of a book is represented by a single bibliographic record which consists of a set of fields and subfields and a few additional elements. The records can come up in different representations. This parser allows parsing of multiple formats, and is meant to allow easy addition of new formats.
+MARC is an abbreviation of Machine-Readable Cataloging and it represents a collection of different standards for representing the metadata of books, magazines etc. The metadata of a book is represented by a single bibliographic record which consists of a set of fields and subfields and a few additional elements. The records can come up in different representations. This parser allows parsing of multiple formats, and is meant to allow easy addition of new formats.
 
 The input for the parser is a file with one or more MARC records (currently 5 MARC record types are supported: MARC21, MARC21 - Library of Congress, MARC with LEADER, UNIMARC, UNIMARC inline) of the same or different types, and the output that the parser produces are MARC structured records in JSON format. The JSON created follows the standards on this page: https://github.com/marc4j/marc4j/wiki/MARC-in-JSON-Description
 
