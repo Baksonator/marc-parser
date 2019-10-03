@@ -1,408 +1,206 @@
-{
-"leader":"",
-"fields":
 [
 	{
-		"001":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+		"leader":"",
+		"fields":
+		[
+			{
+				"001":
 				{
-					"7":"ba"
-				},
-				{
-					"a":"i"
-				},
-				{
-					"b":"a"
-				},
-				{
-					"c":"m"
-				},
-				{
-					"d":"a"
-				},
-				{
-					"e":"6172"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"7":"ba"
+						},
+						{
+							"a":"i"
+						},
+						{
+							"b":"a"
+						},
+						{
+							"c":"m"
+						},
+						{
+							"d":"a"
+						},
+						{
+							"e":"6172"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"100":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"100":
 				{
-					"b":"d"
-				},
-				{
-					"c":"1941"
-				},
-				{
-					"h":"scr"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"b":"d"
+						},
+						{
+							"c":"1941"
+						},
+						{
+							"h":"scr"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"101":
-		{
-			"ind1":"0",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"101":
 				{
-					"a":"eng"
+					"ind1":"0",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"eng"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"102":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"102":
 				{
-					"a":"usa"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"usa"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"200":
-		{
-			"ind1":"0",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"200":
 				{
-					"a":"The Calculi of Lambda-Conversion"
-				},
-				{
-					"e":"Alonzo Church"
+					"ind1":"0",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"The Calculi of Lambda-Conversion"
+						},
+						{
+							"e":"Alonzo Church"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"210":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"210":
 				{
-					"a":"Princeton"
-				},
-				{
-					"c":"Princeton University"
-				},
-				{
-					"d":"1941"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"Princeton"
+						},
+						{
+							"c":"Princeton University"
+						},
+						{
+							"d":"1941"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"215":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"215":
 				{
-					"a":"2+82 str."
-				},
-				{
-					"d":"25 cm"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"2+82 str."
+						},
+						{
+							"d":"25 cm"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"225":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"225":
 				{
-					"a":"Annals of Mathematics Studies"
-				},
-				{
-					"v":"6"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"Annals of Mathematics Studies"
+						},
+						{
+							"v":"6"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"610":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"610":
 				{
-					"a":"Verovatnoca i statistika"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"Verovatnoca i statistika"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"675":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"675":
 				{
-					"a":"519.2"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"a":"519.2"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"700":
-		{
-			"ind1":"#",
-			"ind2":"1",
-			"subfields":
-			[
+			},
+			{
+				"700":
 				{
-					"4":"070"
-				},
-				{
-					"a":"Church"
-				},
-				{
-					"b":"Alonzo"
+					"ind1":"#",
+					"ind2":"1",
+					"subfields":
+					[
+						{
+							"4":"070"
+						},
+						{
+							"a":"Church"
+						},
+						{
+							"b":"Alonzo"
+						}
+					]
 				}
-			]
-		}
-	},
-	{
-		"992":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
+			},
+			{
+				"992":
 				{
-					"b":"cralex9702-old-l02"
+					"ind1":"#",
+					"ind2":"#",
+					"subfields":
+					[
+						{
+							"b":"cralex9702-old-l02"
+						}
+					]
 				}
-			]
-		}
+			}
+		]
 	}
 ]
-}
-{
-"leader":"",
-"fields":
-[
-	{
-		"001":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"7":"ba"
-				},
-				{
-					"a":"i"
-				},
-				{
-					"b":"a"
-				},
-				{
-					"c":"m"
-				},
-				{
-					"d":"a"
-				},
-				{
-					"e":"6172"
-				}
-			]
-		}
-	},
-	{
-		"100":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"b":"d"
-				},
-				{
-					"c":"1941"
-				},
-				{
-					"h":"scr"
-				}
-			]
-		}
-	},
-	{
-		"101":
-		{
-			"ind1":"0",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"eng"
-				}
-			]
-		}
-	},
-	{
-		"102":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"usa"
-				}
-			]
-		}
-	},
-	{
-		"200":
-		{
-			"ind1":"0",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"The Calculi of Lambda-Conversion"
-				},
-				{
-					"e":"Alonzo Church"
-				}
-			]
-		}
-	},
-	{
-		"210":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"Princeton"
-				},
-				{
-					"c":"Princeton University"
-				},
-				{
-					"d":"1941"
-				}
-			]
-		}
-	},
-	{
-		"215":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"2+82 str."
-				},
-				{
-					"d":"25 cm"
-				}
-			]
-		}
-	},
-	{
-		"225":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"Annals of Mathematics Studies"
-				},
-				{
-					"v":"6"
-				}
-			]
-		}
-	},
-	{
-		"610":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"Verovatnoca i statistika"
-				}
-			]
-		}
-	},
-	{
-		"675":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"a":"519.2"
-				}
-			]
-		}
-	},
-	{
-		"700":
-		{
-			"ind1":"#",
-			"ind2":"1",
-			"subfields":
-			[
-				{
-					"4":"070"
-				},
-				{
-					"a":"Church"
-				},
-				{
-					"b":"Alonzo"
-				}
-			]
-		}
-	},
-	{
-		"992":
-		{
-			"ind1":"#",
-			"ind2":"#",
-			"subfields":
-			[
-				{
-					"b":"cralex9702-old-l02"
-				}
-			]
-		}
-	}
-]
-}

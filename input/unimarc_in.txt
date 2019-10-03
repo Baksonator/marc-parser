@@ -10,15 +10,3 @@
 675 ## [a]519.2
 700 #1 [4]070[a]Church[b]Alonzo
 992 ## [b]cralex9702-old-l02
-001 ## [7]ba[a]i[b]a[c]m[d]a[e]6172
-100 ## [b]d[c]1941[h]scr
-101 0# [a]eng
-102 ## [a]usa
-200 0# [a]The Calculi of Lambda-Conversion[e]Alonzo Church
-210 ## [a]Princeton[c]Princeton University[d]1941
-215 ## [a]2+82 str.[d]25 cm
-225 ## [a]Annals of Mathematics Studies[v]6
-610 ## [a]Verovatnoca i statistika
-675 ## [a]519.2
-700 #1 [4]070[a]Church[b]Alonzo
-992 ## [b]cralex9702-old-l02
