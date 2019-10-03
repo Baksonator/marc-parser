@@ -12,7 +12,7 @@ The input for the parser is a file with one or more MARC records (currently 5 MA
 
 In the most general case, a MARC record consists of three parts: the header (leader), a set of control fields and, finally, data fields. The leader usually has a fixed length of 24 characters. All fields (both control and data) have a tag comprised of three digits. Additionally, data fields have two indicators (two digits), and a list of subfields. Each subfield has its own tag, a digit or lowercase letter.
 
-## Examples
+## Example
 
 Input:
 ```
@@ -40,7 +40,296 @@ Input:
 
 Output:
 ```
-
+[
+	{
+		"leader":"00888cam a2200253u 4500",
+		"fields":
+		[
+			{
+				"001":"6840872"
+			},
+			{
+				"005":"20190127101238.0"
+			},
+			{
+				"007":"cr_|||||||||||"
+			},
+			{
+				"008":"820625s1917 ctuab 000 0 eng"
+			},
+			{
+				"906":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"0"
+						},
+						{
+							"b":"cbc"
+						},
+						{
+							"c":"premunv"
+						},
+						{
+							"d":"u"
+						},
+						{
+							"e":"ncip"
+						},
+						{
+							"f":"19"
+						},
+						{
+							"g":"y-gencatlg"
+						}
+					]
+				}
+			},
+			{
+				"010":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"17025544"
+						}
+					]
+				}
+			},
+			{
+				"035":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"9":"(DLC) 17025544"
+						}
+					]
+				}
+			},
+			{
+				"040":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"DLC"
+						},
+						{
+							"c":"CarP"
+						},
+						{
+							"d":"DLC"
+						}
+					]
+				}
+			},
+			{
+				"050":
+				{
+					"ind1":"0",
+					"ind2":"0",
+					"subfields":
+					[
+						{
+							"a":"PR2810.A2"
+						},
+						{
+							"b":"H4"
+						}
+					]
+				}
+			},
+			{
+				"100":
+				{
+					"ind1":"1",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"Shakespeare, William,"
+						},
+						{
+							"d":"1564-1616."
+						}
+					]
+				}
+			},
+			{
+				"245":
+				{
+					"ind1":"1",
+					"ind2":"4",
+					"subfields":
+					[
+						{
+							"a":"The first part of King Henry the Fourth,"
+						}
+					]
+				}
+			},
+			{
+				"260":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"New Haven,"
+						},
+						{
+							"b":"Yale university press; [etc., etc.]"
+						},
+						{
+							"c":"1917."
+						}
+					]
+				}
+			},
+			{
+				"300":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"4 p."
+						},
+						{
+							"b":"l., 148 p. illus. (map)"
+						},
+						{
+							"c":"18 cm."
+						}
+					]
+				}
+			},
+			{
+				"530":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"Also available in digital form."
+						}
+					]
+				}
+			},
+			{
+				"600":
+				{
+					"ind1":"0",
+					"ind2":"0",
+					"subfields":
+					[
+						{
+							"a":"Henry"
+						},
+						{
+							"b":"IV,"
+						},
+						{
+							"c":"King of England,"
+						},
+						{
+							"d":"1367-1413"
+						},
+						{
+							"x":"Drama."
+						}
+					]
+				}
+			},
+			{
+				"700":
+				{
+					"ind1":"1",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"Hemingway, Samuel Burdett,"
+						},
+						{
+							"d":"1883-1958,"
+						},
+						{
+							"e":"ed."
+						}
+					]
+				}
+			},
+			{
+				"856":
+				{
+					"ind1":"4",
+					"ind2":"1",
+					"subfields":
+					[
+						{
+							"u":"http://hdl.loc.gov/loc.gdc/scd0001.00139980359"
+						}
+					]
+				}
+			},
+			{
+				"991":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"b":"c-GenColl"
+						},
+						{
+							"h":"PR2810.A2"
+						},
+						{
+							"i":"H4"
+						},
+						{
+							"t":"Copy 1"
+						},
+						{
+							"w":"PREM"
+						}
+					]
+				}
+			},
+			{
+				"985":
+				{
+					"ind1":"_",
+					"ind2":"_",
+					"subfields":
+					[
+						{
+							"a":"massdig"
+						},
+						{
+							"e":"sloan"
+						}
+					]
+				}
+			}
+		]
+	}
+]
 ```
 
 ## Usage
