@@ -1,0 +1,2307 @@
+<collection>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"1"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-331-0378-8"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2001"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"a"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Haos"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"D\382ejms Glajk"</subfield>
+      <subfield code="g">"[preveo s engleskog Aleksandar B. Nedeljkovi\263]"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2001"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"340 str."</subfield>
+      <subfield code="c">"ilustr."</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Posebna izdanja / Narodna knjiga - Alfa"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">"knj. br. 135"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Chaos / James Gleick"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"821.111(73)-31"</subfield>
+      <subfield code="b">"821.111(73)-31"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"GLAJK"</subfield>
+      <subfield code="b">"D\382ejms"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"NEDELJKOVI\262"</subfield>
+      <subfield code="b">"Aleksandar B."</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"GLEICK"</subfield>
+      <subfield code="b">"James"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"2"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-7606-002-9"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2002"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Svet u kome (ne) \382ivimo"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Aleksandar Aljfredovi\269 Gorbovski"</subfield>
+      <subfield code="g">"prevod Sreten Petrovi\263"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"[2. izd.]"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Nau\269na"</subfield>
+      <subfield code="d">"2002"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"233 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Fakty, dogatki, gipotezy / Aleksandar Gorbovskij"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Str. 5-6: Predgovor / Sr. Petrovi\263"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija uz svako poglavlje"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.5"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"GORBOVSKIJ"</subfield>
+      <subfield code="b">"Aleksandar"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"PETROVI\262"</subfield>
+      <subfield code="b">"Sreten"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"3"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-7436-346-6"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"2005"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="1" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+      <subfield code="c">"eng"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Vodi\269 kroz nauku"</subfield>
+      <subfield code="e">"svemir, \382ivot i sve ostalo"</subfield>
+      <subfield code="f">"D\382on Gribin i Meri Gribin"</subfield>
+      <subfield code="g">"prevela Vesna Uskokovi\263"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Laguna"</subfield>
+      <subfield code="d">"2005"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"304 str."</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Almost Everyone's Guide to Science / John Gribbin"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ka o autoru: str. [305]"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ke uz tekst"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Registar"</subfield>
+    </datafield>
+    <datafield tag="500" ind1="1" ind2="0">
+      <subfield code="a">"Almost Everyone's Guide to Science"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"KOSMOS"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"FIZIKA (popularna nauka)"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"HEMIJA (popularna nauka)"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"BIOLOGIJA (popularna nauka)"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"POPULARNA NAUKA"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"520/524"</subfield>
+      <subfield code="b">"52"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"575"</subfield>
+      <subfield code="b">"575"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"539.1"</subfield>
+      <subfield code="b">"539"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"544"</subfield>
+      <subfield code="b">"54"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"GRIBIN"</subfield>
+      <subfield code="b">"D\382on"</subfield>
+    </datafield>
+    <datafield tag="701" ind1="1" ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"GRIBIN"</subfield>
+      <subfield code="b">"Meri"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"USKOKOVI\262"</subfield>
+      <subfield code="b">"Vesna"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"GRIBBIN"</subfield>
+      <subfield code="b">"John"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"GRIBBIN"</subfield>
+      <subfield code="b">"Mary"</subfield>
+    </datafield>
+    <datafield tag="966" ind1="3" ind2=" ">
+      <subfield code="a">"Svemir"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="966" ind1="3" ind2=" ">
+      <subfield code="a">"Vasiona"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="966" ind1="3" ind2=" ">
+      <subfield code="a">"Univerzum"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"4"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-83509-05-2"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2002"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"a"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"[Devet] 9 ludih ideja u nauci"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Robert Erlih"</subfield>
+      <subfield code="g">"[prevod Dragana \262irovi\263]"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"[1. izd.]"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Mono&Manana Press"</subfield>
+      <subfield code="c">"[etc.]"</subfield>
+      <subfield code="d">"2002"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"200 str."</subfield>
+      <subfield code="c">"ilustr."</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Nine crazy Ideas in Science / Robert Erlich"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ke uz tekst"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"POPULARNA NAUKA"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.5"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"ERLIH"</subfield>
+      <subfield code="b">"Robert"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"\262IROVI\262"</subfield>
+      <subfield code="b">"Dragana"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"ERLICH"</subfield>
+      <subfield code="b">"Robert"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"5"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-7102-218-8"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"2005"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"d"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Nauka o informacijama"</subfield>
+      <subfield code="f">"Iv-Fransoa Le Koadik"</subfield>
+      <subfield code="g">"prevela s francuskog Vesna Injac-Malba\353a"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna biblioteka Srbije"</subfield>
+      <subfield code="c">"[etc.]"</subfield>
+      <subfield code="d">"2005"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"133 str."</subfield>
+      <subfield code="c">"graf. prikazi"</subfield>
+      <subfield code="d">"22 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"B plus / Clio"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: La science de l'information / Yves-Francois Le Coadic"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Napomene uz tekst"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija: str. 133"</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"S"</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"INFORMACIJE"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.102"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"LE KOADIK"</subfield>
+      <subfield code="b">"Iv-Fransoa"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"INJAC-Malba\353a"</subfield>
+      <subfield code="b">"Vesna"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"LE COADIC"</subfield>
+      <subfield code="b">"Yves-Francois"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ca"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"6"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-355-0211-6"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"1995"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"a"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Izbeg od vremena"</subfield>
+      <subfield code="e">"kazivanje o neiskazanosti istine o vremenu, spoznaji nespoznajne tajne smrti, dohvatu nedohvatne besmrtnosti"</subfield>
+      <subfield code="f">"Ljubo  Malnik"</subfield>
+      <subfield code="g">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Slu\382beni list SFRJ"</subfield>
+      <subfield code="d">"1995"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"166 str."</subfield>
+      <subfield code="c">"ilustr."</subfield>
+      <subfield code="d">"21 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\262ir"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Str. 9-12: Izbeg od vremena Lj. Malnika / Ilija Mari\263"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Str. 13-15: Umesto vremena koje biste posvetili predgovoru / Ljubomir D. Todorovi\263"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija: str. 165-166."</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"VREME"</subfield>
+      <subfield code="x">"Filozofski aspekt"</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"114/115"</subfield>
+      <subfield code="b">"1"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"MALNIK"</subfield>
+      <subfield code="b">"Ljubo"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ca"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"7"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-489-0435-8"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2004"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scc"</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Mo\263 nauke"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Milorad Mla\273enovi\263"</subfield>
+      <subfield code="g">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Novi Sad"</subfield>
+      <subfield code="c">"Zmaj"</subfield>
+      <subfield code="d">"2004"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"392 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"24 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\262ir"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"O autoru: str.  390-392"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija: str. 382-384"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"FIZIKA"</subfield>
+      <subfield code="x">"Razvoj"</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"NAUKA"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"GNOSEOLOGIJA"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"FILOZOFI"</subfield>
+      <subfield code="x">"Gnoseologija"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"NAU\268NICI"</subfield>
+      <subfield code="x">"Gnoseologija"</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">"NAUKA / UMETNOST"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"165"</subfield>
+      <subfield code="b">"16"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"530.1:001"</subfield>
+      <subfield code="b">"53"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"MLA\272ENOVI\262"</subfield>
+      <subfield code="b">"Milorad"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ca"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"8"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-7405-027-1"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2002"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"a"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Nauka - religija - dru\353tvo"</subfield>
+      <subfield code="e">"seminar i okrugli sto, SANU, Beograd, 12.april 2002."</subfield>
+      <subfield code="f">"[urednici Vladeta Jeroti\263, \272uro Koruga, Dejan Rakovi\263]"</subfield>
+      <subfield code="g">"organizacioni odbor Vojislav Milovanovi\263 ... [i dr.]"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"1. izd."</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Bogoslovski fakultet Srpske pravoslavne crkve"</subfield>
+      <subfield code="c">"[itd.]"</subfield>
+      <subfield code="d">"2002"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"273 str."</subfield>
+      <subfield code="c">"ilustr."</subfield>
+      <subfield code="d">"24 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\262ir"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Str. [III-VI]: Predgovor / urednici"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ke uz tekst"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija uz svaki rad"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Abstracts"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"NAUKA"</subfield>
+      <subfield code="w">"Zbornici"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"RELIGIJA"</subfield>
+      <subfield code="w">"Zbornici"</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"PSIHOLOGIJA"</subfield>
+      <subfield code="w">"Zbornici"</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001(082)"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"2(082)"</subfield>
+      <subfield code="b">"2"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"159.9(082)"</subfield>
+      <subfield code="b">"159.9"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"316.7(082)"</subfield>
+      <subfield code="b">"316"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"902"</subfield>
+      <subfield code="a">"MILOVANOVI\262"</subfield>
+      <subfield code="b">"Vojislav"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"340"</subfield>
+      <subfield code="a">"JEROTI\262"</subfield>
+      <subfield code="b">"Vladeta"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"340"</subfield>
+      <subfield code="a">"KORUGA"</subfield>
+      <subfield code="b">"\272uro"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"340"</subfield>
+      <subfield code="a">"RAKOVI\262"</subfield>
+      <subfield code="b">"Dejan"</subfield>
+    </datafield>
+    <datafield tag="710" ind1=" " ind2=" ">
+      <subfield code="a">"SEMINAR i Okrugli sto Nauka-Religija-Dru\353tvo"</subfield>
+      <subfield code="e">"Beograd"</subfield>
+      <subfield code="f">"2002"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"9"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-7047-381-8"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2001"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="1" ind2=" ">
+      <subfield code="a">"RE\268NIK razvoja"</subfield>
+      <subfield code="e">"vodi\269 kroz znanje kao mo\263"</subfield>
+      <subfield code="f">"priredio Volfgang Zaks"</subfield>
+      <subfield code="g">"preveli Ljubica Stankovi\263, Vladimir Gvozden"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"[1. izd.]"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Novi Sad"</subfield>
+      <subfield code="c">"Svetovi"</subfield>
+      <subfield code="d">"2001"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"347 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Biblioteka AZ"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">""</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: The Development Dictionary / Wolfganag Sachs"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Str. 5-10: Uvod / Volfgang Zaks"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Spisak autora: str. 343-346"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija uz svaki rad"</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"bD"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"EKONOMSKI RAZVOJ"</subfield>
+      <subfield code="w">"Terminologija"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.1:3(082)"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"330:001(082)"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"902"</subfield>
+      <subfield code="a">"ZAKS"</subfield>
+      <subfield code="b">"Volfgang"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"STANKOVI\262"</subfield>
+      <subfield code="b">"Ljubica"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"GVOZDEN"</subfield>
+      <subfield code="b">"Vladimir"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"10"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-01-01552-2"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"1989"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"d"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"\268etvrti genije"</subfield>
+      <subfield code="e">"(ogled o jednom nau\269nom skandalu)"</subfield>
+      <subfield code="f">"Marko Ve\353ovi\263"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Sarajevo"</subfield>
+      <subfield code="c">"Svjetlost"</subfield>
+      <subfield code="d">"1989"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"212 str."</subfield>
+      <subfield code="c">"grafikoni"</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.894:681.5.01/.07"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.894:347.77"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"VE\352OVI\262"</subfield>
+      <subfield code="b">"Marko"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"11"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-82499-93-2"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"1998"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Jaha\269i talasa Zuvuje"</subfield>
+      <subfield code="e">"pri\269e o me\273udimenzionalnom putovanju"</subfield>
+      <subfield code="f">"Hose Argueljes"</subfield>
+      <subfield code="g">"prevod Katarina Proki\263"</subfield>
+      <subfield code="g">"uvodna re\269 Merilin Ferguson"</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"[1. izd.]"</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Paideia"</subfield>
+      <subfield code="d">"1998"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"158 str."</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Vizije"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Surfers of the Zuvuja / Jose Arguelles"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Podatak o izd. preuzet iz CIP-a"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Uvodna re\269: str. 7-10"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ka o autoru i fotogr. na kor"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.97:930.85(=972.6)"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"ARGUELJES"</subfield>
+      <subfield code="b">"Hose"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"911"</subfield>
+      <subfield code="a">"FERGUSON"</subfield>
+      <subfield code="b">"Merilin"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"PROKI\262"</subfield>
+      <subfield code="b">"Katarina"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"ARGUELLES"</subfield>
+      <subfield code="b">"Jose"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"12"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-83509-78-8"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"2005"</subfield>
+      <subfield code="h">"srp"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="1" ind2=" ">
+      <subfield code="a">"srp"</subfield>
+      <subfield code="c">"eng"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"scg"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"a"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"\268uvari \269ove\269anstva"</subfield>
+      <subfield code="f">"Robert Boval, Grejem Henkok"</subfield>
+      <subfield code="g">"[prevod s engleskog Tatjana Milosavljevi\263]"</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"1. izd."</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Mo\263 knjige"</subfield>
+      <subfield code="d">"2005"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"399 str."</subfield>
+      <subfield code="c">"ilustr."</subfield>
+      <subfield code="d">"24 cm"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Keeper of Genesis / by Robert Bauval and Graham Hancock"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Bele\353ke o autorima: str. 7"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija: str. 369-399"</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"S"</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Keeper of Genesis"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"PIRAMIDE"</subfield>
+      <subfield code="x">"Misterije"</subfield>
+      <subfield code="y">"Egipat"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"CIVILIZACIJA"</subfield>
+      <subfield code="y">"Egipat"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.94:726.85(32)"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"726.85(32):001.5"</subfield>
+      <subfield code="b">"72"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"BOVAL"</subfield>
+      <subfield code="b">"Robert"</subfield>
+    </datafield>
+    <datafield tag="701" ind1="1" ind2="1">
+      <subfield code="4">"071"</subfield>
+      <subfield code="a">"HENKOK"</subfield>
+      <subfield code="b">"Grejam"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"MILOSAVLJEVI\262"</subfield>
+      <subfield code="b">"Tatjana"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"BAUVAL"</subfield>
+      <subfield code="b">"Robert"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"HANCOCK"</subfield>
+      <subfield code="b">"Graham"</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="9">
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"MILOSAVLJEVI\262"</subfield>
+      <subfield code="b">"Tanja"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"13"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2000"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"srp"</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Kako se pi\353e diplomski rad"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Umberto Eko"</subfield>
+      <subfield code="g">"s italijanskog prevela Mirjana \272uki\263-Vlahovi\263"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2000"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"144 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Slu\269aj"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">"11"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: Come fare una tesi di laurea / par Umberto Eco"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"DIPLOMSKI RAD"</subfield>
+      <subfield code="x">"Metodologija"</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.8"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"EKO"</subfield>
+      <subfield code="b">"Umberto"</subfield>
+    </datafield>
+    <datafield tag="701" ind1=" " ind2="1">
+      <subfield code="4">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"\272UKI\262-Vlahovi\263"</subfield>
+      <subfield code="b">"Mirjana"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"ECO"</subfield>
+      <subfield code="b">"Umberto"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"15"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-331-1994-3"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2005"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Velika enciklopedija nere\353enih zagonetki"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Kolin i Dejmon Vilson"</subfield>
+      <subfield code="g">"[prevela Milica Mijovi\263]"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2005"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"374 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"21 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Posebna izdanja / Narodna knjiga - Alfa"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">"knj. br. 235"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Colin Wilson&Damon Wilson"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"S"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"MISTERIJE"</subfield>
+      <subfield code="w">"Enciklopedije"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.94"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Kolin"</subfield>
+    </datafield>
+    <datafield tag="701" ind1="1" ind2="1">
+      <subfield code="4">"071"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Dejmon"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"MIJOVI\262"</subfield>
+      <subfield code="b">"Milica"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Colin"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Damon"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"16"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-331-2274-X"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"2005"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Velika enciklopedija nere\353enih zagonetki"</subfield>
+      <subfield code="f">"Kolin, i Dejmon Vilson"</subfield>
+      <subfield code="g">"[prevela Milica Mijovi\263]"</subfield>
+      <subfield code="h">"[Deo 1]"</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"2. izd."</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2005"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"376 str."</subfield>
+      <subfield code="d">"21 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Posebna izdanja / Narodna knjiga - Alfa"</subfield>
+      <subfield code="v">"knj. br. 235"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Volin Wilson&Damon Wilson"</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"S"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"MISTERIJE"</subfield>
+      <subfield code="w">"Enciklopedije"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.94"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Kolin"</subfield>
+    </datafield>
+    <datafield tag="701" ind1="1" ind2="1">
+      <subfield code="4">"071"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Dejmon"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"MIJOVI\262"</subfield>
+      <subfield code="b">"Milica"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Colin"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Damon"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ba"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"17"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-331-1994-3"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2005"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">"scr"</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Velika enciklopedija nere\353enih zagonetki"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">"Kolin i Dejmon Vilson"</subfield>
+      <subfield code="g">"[prevela Milica Mijovi\263]"</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2005"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"374 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"21 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Posebna izdanja / Narodna knjiga - Alfa"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">"knj. br. 235"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Colin Wilson&Damon Wilson"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="330" ind1=" " ind2=" ">
+      <subfield code="a">"S"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"MISTERIJE"</subfield>
+      <subfield code="w">"Enciklopedije"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.94"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Kolin"</subfield>
+    </datafield>
+    <datafield tag="701" ind1="1" ind2="1">
+      <subfield code="4">"071"</subfield>
+      <subfield code="a">"VILSON"</subfield>
+      <subfield code="b">"Dejmon"</subfield>
+    </datafield>
+    <datafield tag="702" ind1="1" ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"MIJOVI\262"</subfield>
+      <subfield code="b">"Milica"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Colin"</subfield>
+    </datafield>
+    <datafield tag="900" ind1=" " ind2="3">
+      <subfield code="a">"WILSON"</subfield>
+      <subfield code="b">"Damon"</subfield>
+    </datafield>
+    <datafield tag="901" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">""</subfield>
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"cb"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"18"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"978-86-17-14065-4"</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="c">"2007"</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="1" ind2=" ">
+      <subfield code="a">"scc"</subfield>
+      <subfield code="c">"fre"</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"srb"</subfield>
+    </datafield>
+    <datafield tag="200" ind1="1" ind2=" ">
+      <subfield code="a">"\1045\1074\1088\1086\1087\1072 \1086\1090\1082\1088\1080\1115\1072"</subfield>
+      <subfield code="f">"\1087\1088\1080\1088\1077\1076\1080\1086 \1044\1072\1074\1080\1076 \1046\1072\1089\1084\1077\1085"</subfield>
+      <subfield code="g">"\1089 \1092\1088\1072\1085\1094\1091\1089\1082\1086\1075 \1087\1088\1077\1074\1077\1086 \1057\1090\1077\1074\1072\1085 \1032\1086\1082\1080\1115"</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">"1. \1080\1079\1076."</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"\1041\1077\1086\1075\1088\1072\1076"</subfield>
+      <subfield code="c">"\1047\1072\1074\1086\1076 \1079\1072 \1091\1119\1073\1077\1085\1080\1082\1077"</subfield>
+      <subfield code="d">"2007"</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"VIII, 296 \1089\1090\1088."</subfield>
+      <subfield code="c">"\1080\1083\1091\1089\1090\1088."</subfield>
+      <subfield code="d">"20 \1094\1084"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\1055\1088\1077\1074\1086\1076 \1076\1077\1083\1072: L'Europe des d\233couvertes / sous la direction de David Jasmin"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\1057\1090\1088. V-VIII: \1055\1088\1077\1076\1075\1086\1074\1086\1088 / \1055\1072\1086\1083\1086 \1041\1088\1077\1085\1080"</subfield>
+    </datafield>
+    <datafield tag="500" ind1="1" ind2="0">
+      <subfield code="a">"L'Europe des d\233couvertes"</subfield>
+      <subfield code="a">"L'Europe des decouvertes"</subfield>
+    </datafield>
+    <datafield tag="532" ind1="1" ind2="3">
+      <subfield code="a">"Evropa otkri\263a"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"PRONALASCI (nauka)"</subfield>
+      <subfield code="x">"Istorija"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="606" ind1="3" ind2=" ">
+      <subfield code="a">"NAUKA"</subfield>
+      <subfield code="x">"Razvoj"</subfield>
+      <subfield code="x">"Istorija"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.894(4)(091)"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="702" ind1=" " ind2="1">
+      <subfield code="4">"902"</subfield>
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"\381ASMEN"</subfield>
+      <subfield code="b">"David"</subfield>
+    </datafield>
+    <datafield tag="702" ind1=" " ind2="1">
+      <subfield code="4">"730"</subfield>
+      <subfield code="a">"JOKI\262"</subfield>
+      <subfield code="b">"Stevan"</subfield>
+    </datafield>
+    <datafield tag="702" ind1=" " ind2="1">
+      <subfield code="4">"912"</subfield>
+      <subfield code="6">"02"</subfield>
+      <subfield code="a">"BRENI"</subfield>
+      <subfield code="b">"Paolo"</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">"01"</subfield>
+      <subfield code="a">"JASMIN"</subfield>
+      <subfield code="b">"David"</subfield>
+    </datafield>
+    <datafield tag="902" ind1=" " ind2="3">
+      <subfield code="6">"02"</subfield>
+      <subfield code="a">"BRENNI"</subfield>
+      <subfield code="b">"Paolo"</subfield>
+    </datafield>
+    <datafield tag="966" ind1="3" ind2=" ">
+      <subfield code="a">"v. i Geografska otkri\263a"</subfield>
+      <subfield code="6">"01"</subfield>
+    </datafield>
+    <datafield tag="992" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>""</leader>
+    <datafield tag="001" ind1=" " ind2=" ">
+      <subfield code="7">"ca"</subfield>
+      <subfield code="a">"c"</subfield>
+      <subfield code="b">"a"</subfield>
+      <subfield code="c">"m"</subfield>
+      <subfield code="d">"0"</subfield>
+      <subfield code="e">"19"</subfield>
+    </datafield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">"86-331-0302-8"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="b">""</subfield>
+      <subfield code="c">"2001"</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="h">"scr"</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="c">""</subfield>
+    </datafield>
+    <datafield tag="102" ind1=" " ind2=" ">
+      <subfield code="a">"yug"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+    <datafield tag="105" ind1=" " ind2=" ">
+      <subfield code="a">"y"</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2=" ">
+      <subfield code="a">"Osnovi tekstologije"</subfield>
+      <subfield code="e">"(uvod u tekstologiju nove srpske knji\382evnosti)"</subfield>
+      <subfield code="f">"Du\353an Ivani\263"</subfield>
+      <subfield code="g">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+    </datafield>
+    <datafield tag="205" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="210" ind1=" " ind2=" ">
+      <subfield code="a">"Beograd"</subfield>
+      <subfield code="c">"Narodna knjiga - Alfa"</subfield>
+      <subfield code="d">"2001"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="g">""</subfield>
+    </datafield>
+    <datafield tag="215" ind1=" " ind2=" ">
+      <subfield code="a">"297 str."</subfield>
+      <subfield code="c">""</subfield>
+      <subfield code="d">"20 cm"</subfield>
+    </datafield>
+    <datafield tag="225" ind1="2" ind2=" ">
+      <subfield code="a">"Pojmovnik / Narodna knjiga - Alfa"</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="h">""</subfield>
+      <subfield code="i">""</subfield>
+      <subfield code="v">"knj. 57"</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"\262ir."</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">"Prilozi: str. 274-286"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografija: str. 259-271"</subfield>
+    </datafield>
+    <datafield tag="320" ind1=" " ind2=" ">
+      <subfield code="a">"Registri"</subfield>
+    </datafield>
+    <datafield tag="464" ind1=" " ind2="0">
+      <subfield code="1">""</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="600" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="601" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+      <subfield code="b">""</subfield>
+      <subfield code="d">""</subfield>
+      <subfield code="e">""</subfield>
+      <subfield code="f">""</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"TEKST (lingvistika)"</subfield>
+      <subfield code="x">""</subfield>
+      <subfield code="y">""</subfield>
+      <subfield code="z">""</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"TEKSTOLOGIJA"</subfield>
+    </datafield>
+    <datafield tag="606" ind1=" " ind2=" ">
+      <subfield code="a">"KNJI\381EVNO DELO"</subfield>
+      <subfield code="x">"Priprema za \353tampu"</subfield>
+    </datafield>
+    <datafield tag="610" ind1=" " ind2=" ">
+      <subfield code="a">""</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"001.816"</subfield>
+      <subfield code="b">"001"</subfield>
+    </datafield>
+    <datafield tag="675" ind1=" " ind2=" ">
+      <subfield code="a">"82.01"</subfield>
+      <subfield code="b">"82"</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2="1">
+      <subfield code="4">"070"</subfield>
+      <subfield code="a">"IVANI\262"</subfield>
+      <subfield code="b">""</subfield>
+    </datafield>
+  </record>
+</collection>

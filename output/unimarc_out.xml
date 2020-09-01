@@ -1,0 +1,55 @@
+<collection>
+  <record>
+    <leader></leader>
+    <datafield tag="001" ind1="#" ind2="#">
+      <subfield code="7">ba</subfield>
+      <subfield code="a">i</subfield>
+      <subfield code="b">a</subfield>
+      <subfield code="c">m</subfield>
+      <subfield code="d">a</subfield>
+      <subfield code="e">6172</subfield>
+    </datafield>
+    <datafield tag="100" ind1="#" ind2="#">
+      <subfield code="b">d</subfield>
+      <subfield code="c">1941</subfield>
+      <subfield code="h">scr</subfield>
+    </datafield>
+    <datafield tag="101" ind1="0" ind2="#">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="102" ind1="#" ind2="#">
+      <subfield code="a">usa</subfield>
+    </datafield>
+    <datafield tag="200" ind1="0" ind2="#">
+      <subfield code="a">The Calculi of Lambda-Conversion</subfield>
+      <subfield code="e">Alonzo Church</subfield>
+    </datafield>
+    <datafield tag="210" ind1="#" ind2="#">
+      <subfield code="a">Princeton</subfield>
+      <subfield code="c">Princeton University</subfield>
+      <subfield code="d">1941</subfield>
+    </datafield>
+    <datafield tag="215" ind1="#" ind2="#">
+      <subfield code="a">2+82 str.</subfield>
+      <subfield code="d">25 cm</subfield>
+    </datafield>
+    <datafield tag="225" ind1="#" ind2="#">
+      <subfield code="a">Annals of Mathematics Studies</subfield>
+      <subfield code="v">6</subfield>
+    </datafield>
+    <datafield tag="610" ind1="#" ind2="#">
+      <subfield code="a">Verovatnoca i statistika</subfield>
+    </datafield>
+    <datafield tag="675" ind1="#" ind2="#">
+      <subfield code="a">519.2</subfield>
+    </datafield>
+    <datafield tag="700" ind1="#" ind2="1">
+      <subfield code="4">070</subfield>
+      <subfield code="a">Church</subfield>
+      <subfield code="b">Alonzo</subfield>
+    </datafield>
+    <datafield tag="992" ind1="#" ind2="#">
+      <subfield code="b">cralex9702-old-l02</subfield>
+    </datafield>
+  </record>
+</collection>

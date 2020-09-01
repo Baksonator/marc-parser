@@ -1,0 +1,76 @@
+-
+  leader: ^^^^^nam^a22002891^^4500
+  controlfields:
+    -
+      001: 000000228
+    -
+      006: m^^^^^^^^d^^^^^^^^
+    -
+      007: cr^bn^---auaua
+    -
+      008: 880715r19691828nyuab^^^^^^^^|00000^eng^^
+  datafields:
+    -
+      010:
+        -
+          ind1: #
+        -
+          ind2: #
+        -
+          subfields:
+            a: 68055188
+
+    -
+      020:
+        -
+          ind1: #
+        -
+          ind2: #
+        -
+          subfields:
+            a: 083711750X
+
+    -
+      035:
+        -
+          ind1: #
+        -
+          ind2: #
+        -
+          subfields:
+            a: (RLIN)MIUG0021856-B
+
+    -
+      245:
+        -
+          ind1: 1
+        -
+          ind2: 4
+        -
+          subfields:
+            a: The descent of manuscripts.
+
+    -
+      600:
+        -
+          ind1: 1
+        -
+          ind2: 0
+        -
+          subfields:
+            a: Cicero, Marcus Tullius
+            x: Manuscripts.
+
+    -
+      600:
+        -
+          ind1: 0
+        -
+          ind2: 0
+        -
+          subfields:
+            a: Plato.
+            t: Critias
+            x: Manuscripts.
+
+

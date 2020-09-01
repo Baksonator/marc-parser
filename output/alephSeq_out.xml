@@ -1,0 +1,30 @@
+<collection>
+  <record>
+    <leader>^^^^^nam^a22002891^^4500</leader>
+    <controlfield tag="001">000000228</controlfield>
+    <controlfield tag="006">m^^^^^^^^d^^^^^^^^</controlfield>
+    <controlfield tag="007">cr^bn^---auaua</controlfield>
+    <controlfield tag="008">880715r19691828nyuab^^^^^^^^|00000^eng^^</controlfield>
+    <datafield tag="010" ind1="#" ind2="#">
+      <subfield code="a">68055188</subfield>
+    </datafield>
+    <datafield tag="020" ind1="#" ind2="#">
+      <subfield code="a">083711750X</subfield>
+    </datafield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">(RLIN)MIUG0021856-B</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The descent of manuscripts.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Cicero, Marcus Tullius</subfield>
+      <subfield code="x">Manuscripts.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Plato.</subfield>
+      <subfield code="t">Critias</subfield>
+      <subfield code="x">Manuscripts.</subfield>
+    </datafield>
+  </record>
+</collection>

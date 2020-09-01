@@ -1,0 +1,5729 @@
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "1"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-331-0378-8"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2001"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "a"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Haos"
+            "e": ""
+            "f": "D\382ejms Glajk"
+            "g": "[preveo s engleskog Aleksandar B. Nedeljkovi\263]"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2001"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "340 str."
+            "c": "ilustr."
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Posebna izdanja / Narodna knjiga - Alfa"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": "knj. br. 135"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Chaos / James Gleick"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "821.111(73)-31"
+            "b": "821.111(73)-31"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "GLAJK"
+            "b": "D\382ejms"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "NEDELJKOVI\262"
+            "b": "Aleksandar B."
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "GLEICK"
+            "b": "James"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "2"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-7606-002-9"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2002"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Svet u kome (ne) \382ivimo"
+            "e": ""
+            "f": "Aleksandar Aljfredovi\269 Gorbovski"
+            "g": "prevod Sreten Petrovi\263"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "[2. izd.]"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Nau\269na"
+            "d": "2002"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "233 str."
+            "c": ""
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Fakty, dogatki, gipotezy / Aleksandar Gorbovskij"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Str. 5-6: Predgovor / Sr. Petrovi\263"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija uz svako poglavlje"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.5"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "GORBOVSKIJ"
+            "b": "Aleksandar"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "PETROVI\262"
+            "b": "Sreten"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": ""
+            "b": ""
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "3"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-7436-346-6"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "2005"
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 1
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+            "c": "eng"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Vodi\269 kroz nauku"
+            "e": "svemir, \382ivot i sve ostalo"
+            "f": "D\382on Gribin i Meri Gribin"
+            "g": "prevela Vesna Uskokovi\263"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Laguna"
+            "d": "2005"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "304 str."
+            "d": "20 cm"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Almost Everyone's Guide to Science / John Gribbin"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ka o autoru: str. [305]"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ke uz tekst"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Registar"
+
+    -
+      500:
+        -
+          ind1: 1
+        -
+          ind2: 0
+        -
+          subfields:
+            "a": "Almost Everyone's Guide to Science"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "KOSMOS"
+            "6": "01"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "FIZIKA (popularna nauka)"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "HEMIJA (popularna nauka)"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "BIOLOGIJA (popularna nauka)"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "POPULARNA NAUKA"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "520/524"
+            "b": "52"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "575"
+            "b": "575"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "539.1"
+            "b": "539"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "544"
+            "b": "54"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "GRIBIN"
+            "b": "D\382on"
+
+    -
+      701:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "6": "01"
+            "a": "GRIBIN"
+            "b": "Meri"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "USKOKOVI\262"
+            "b": "Vesna"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "GRIBBIN"
+            "b": "John"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": "01"
+            "a": "GRIBBIN"
+            "b": "Mary"
+
+    -
+      966:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Svemir"
+            "6": "01"
+
+    -
+      966:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Vasiona"
+            "6": "01"
+
+    -
+      966:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Univerzum"
+            "6": "01"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "4"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-83509-05-2"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2002"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "a"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "[Devet] 9 ludih ideja u nauci"
+            "e": ""
+            "f": "Robert Erlih"
+            "g": "[prevod Dragana \262irovi\263]"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "[1. izd.]"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Mono&Manana Press"
+            "c": "[etc.]"
+            "d": "2002"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "200 str."
+            "c": "ilustr."
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Nine crazy Ideas in Science / Robert Erlich"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ke uz tekst"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "POPULARNA NAUKA"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.5"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "ERLIH"
+            "b": "Robert"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "\262IROVI\262"
+            "b": "Dragana"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "ERLICH"
+            "b": "Robert"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "5"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-7102-218-8"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "2005"
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "d"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Nauka o informacijama"
+            "f": "Iv-Fransoa Le Koadik"
+            "g": "prevela s francuskog Vesna Injac-Malba\353a"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna biblioteka Srbije"
+            "c": "[etc.]"
+            "d": "2005"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "133 str."
+            "c": "graf. prikazi"
+            "d": "22 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "B plus / Clio"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: La science de l'information / Yves-Francois Le Coadic"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Napomene uz tekst"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija: str. 133"
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "S"
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "INFORMACIJE"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.102"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "LE KOADIK"
+            "b": "Iv-Fransoa"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "INJAC-Malba\353a"
+            "b": "Vesna"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "LE COADIC"
+            "b": "Yves-Francois"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ca"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "6"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-355-0211-6"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "1995"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "a"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Izbeg od vremena"
+            "e": "kazivanje o neiskazanosti istine o vremenu, spoznaji nespoznajne tajne smrti, dohvatu nedohvatne besmrtnosti"
+            "f": "Ljubo  Malnik"
+            "g": ""
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Slu\382beni list SFRJ"
+            "d": "1995"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "166 str."
+            "c": "ilustr."
+            "d": "21 cm"
+
+    -
+      225:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\262ir"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Str. 9-12: Izbeg od vremena Lj. Malnika / Ilija Mari\263"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Str. 13-15: Umesto vremena koje biste posvetili predgovoru / Ljubomir D. Todorovi\263"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija: str. 165-166."
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "VREME"
+            "x": "Filozofski aspekt"
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "114/115"
+            "b": "1"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "MALNIK"
+            "b": "Ljubo"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": ""
+            "b": ""
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ca"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "7"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-489-0435-8"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2004"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scc"
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Mo\263 nauke"
+            "e": ""
+            "f": "Milorad Mla\273enovi\263"
+            "g": ""
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Novi Sad"
+            "c": "Zmaj"
+            "d": "2004"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "392 str."
+            "c": ""
+            "d": "24 cm"
+
+    -
+      225:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\262ir"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "O autoru: str.  390-392"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija: str. 382-384"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "FIZIKA"
+            "x": "Razvoj"
+            "y": ""
+            "z": ""
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "NAUKA"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "GNOSEOLOGIJA"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "FILOZOFI"
+            "x": "Gnoseologija"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "NAU\268NICI"
+            "x": "Gnoseologija"
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "NAUKA / UMETNOST"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "165"
+            "b": "16"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "530.1:001"
+            "b": "53"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "MLA\272ENOVI\262"
+            "b": "Milorad"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": ""
+            "b": ""
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ca"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "8"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-7405-027-1"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2002"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "a"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Nauka - religija - dru\353tvo"
+            "e": "seminar i okrugli sto, SANU, Beograd, 12.april 2002."
+            "f": "[urednici Vladeta Jeroti\263, \272uro Koruga, Dejan Rakovi\263]"
+            "g": "organizacioni odbor Vojislav Milovanovi\263 ... [i dr.]"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "1. izd."
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Bogoslovski fakultet Srpske pravoslavne crkve"
+            "c": "[itd.]"
+            "d": "2002"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "273 str."
+            "c": "ilustr."
+            "d": "24 cm"
+
+    -
+      225:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\262ir"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Str. [III-VI]: Predgovor / urednici"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ke uz tekst"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija uz svaki rad"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Abstracts"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "NAUKA"
+            "w": "Zbornici"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "RELIGIJA"
+            "w": "Zbornici"
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "PSIHOLOGIJA"
+            "w": "Zbornici"
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001(082)"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "2(082)"
+            "b": "2"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "159.9(082)"
+            "b": "159.9"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "316.7(082)"
+            "b": "316"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "902"
+            "a": "MILOVANOVI\262"
+            "b": "Vojislav"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "340"
+            "a": "JEROTI\262"
+            "b": "Vladeta"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "340"
+            "a": "KORUGA"
+            "b": "\272uro"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "340"
+            "a": "RAKOVI\262"
+            "b": "Dejan"
+
+    -
+      710:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "SEMINAR i Okrugli sto Nauka-Religija-Dru\353tvo"
+            "e": "Beograd"
+            "f": "2002"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": ""
+            "b": ""
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "9"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-7047-381-8"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2001"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 1
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "RE\268NIK razvoja"
+            "e": "vodi\269 kroz znanje kao mo\263"
+            "f": "priredio Volfgang Zaks"
+            "g": "preveli Ljubica Stankovi\263, Vladimir Gvozden"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "[1. izd.]"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Novi Sad"
+            "c": "Svetovi"
+            "d": "2001"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "347 str."
+            "c": ""
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Biblioteka AZ"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": ""
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: The Development Dictionary / Wolfganag Sachs"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Str. 5-10: Uvod / Volfgang Zaks"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Spisak autora: str. 343-346"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija uz svaki rad"
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "bD"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "EKONOMSKI RAZVOJ"
+            "w": "Terminologija"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.1:3(082)"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "330:001(082)"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "902"
+            "a": "ZAKS"
+            "b": "Volfgang"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "STANKOVI\262"
+            "b": "Ljubica"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "GVOZDEN"
+            "b": "Vladimir"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": ""
+            "b": ""
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "10"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-01-01552-2"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "1989"
+            "h": "scr"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "d"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\268etvrti genije"
+            "e": "(ogled o jednom nau\269nom skandalu)"
+            "f": "Marko Ve\353ovi\263"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Sarajevo"
+            "c": "Svjetlost"
+            "d": "1989"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "212 str."
+            "c": "grafikoni"
+            "d": "20 cm"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.894:681.5.01/.07"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.894:347.77"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "VE\352OVI\262"
+            "b": "Marko"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "11"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-82499-93-2"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "1998"
+            "h": "scr"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Jaha\269i talasa Zuvuje"
+            "e": "pri\269e o me\273udimenzionalnom putovanju"
+            "f": "Hose Argueljes"
+            "g": "prevod Katarina Proki\263"
+            "g": "uvodna re\269 Merilin Ferguson"
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "[1. izd.]"
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Paideia"
+            "d": "1998"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "158 str."
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Vizije"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Surfers of the Zuvuja / Jose Arguelles"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Podatak o izd. preuzet iz CIP-a"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Uvodna re\269: str. 7-10"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ka o autoru i fotogr. na kor"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.97:930.85(=972.6)"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "ARGUELJES"
+            "b": "Hose"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "911"
+            "a": "FERGUSON"
+            "b": "Merilin"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "PROKI\262"
+            "b": "Katarina"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "ARGUELLES"
+            "b": "Jose"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "12"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-83509-78-8"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "2005"
+            "h": "srp"
+
+    -
+      101:
+        -
+          ind1: 1
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "srp"
+            "c": "eng"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scg"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "a"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\268uvari \269ove\269anstva"
+            "f": "Robert Boval, Grejem Henkok"
+            "g": "[prevod s engleskog Tatjana Milosavljevi\263]"
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "1. izd."
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Mo\263 knjige"
+            "d": "2005"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "399 str."
+            "c": "ilustr."
+            "d": "24 cm"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Keeper of Genesis / by Robert Bauval and Graham Hancock"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bele\353ke o autorima: str. 7"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija: str. 369-399"
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "S"
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Keeper of Genesis"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "PIRAMIDE"
+            "x": "Misterije"
+            "y": "Egipat"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "CIVILIZACIJA"
+            "y": "Egipat"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.94:726.85(32)"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "726.85(32):001.5"
+            "b": "72"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "BOVAL"
+            "b": "Robert"
+
+    -
+      701:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "071"
+            "a": "HENKOK"
+            "b": "Grejam"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "6": "01"
+            "a": "MILOSAVLJEVI\262"
+            "b": "Tatjana"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "BAUVAL"
+            "b": "Robert"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "HANCOCK"
+            "b": "Graham"
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 9
+        -
+          subfields:
+            "6": "01"
+            "a": "MILOSAVLJEVI\262"
+            "b": "Tanja"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "13"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2000"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "srp"
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Kako se pi\353e diplomski rad"
+            "e": ""
+            "f": "Umberto Eko"
+            "g": "s italijanskog prevela Mirjana \272uki\263-Vlahovi\263"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2000"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "144 str."
+            "c": ""
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Slu\269aj"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": "11"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: Come fare una tesi di laurea / par Umberto Eco"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "DIPLOMSKI RAD"
+            "x": "Metodologija"
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.8"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "EKO"
+            "b": "Umberto"
+
+    -
+      701:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": ""
+            "a": ""
+            "b": ""
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "\272UKI\262-Vlahovi\263"
+            "b": "Mirjana"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "ECO"
+            "b": "Umberto"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "15"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-331-1994-3"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2005"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Velika enciklopedija nere\353enih zagonetki"
+            "e": ""
+            "f": "Kolin i Dejmon Vilson"
+            "g": "[prevela Milica Mijovi\263]"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2005"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "374 str."
+            "c": ""
+            "d": "21 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Posebna izdanja / Narodna knjiga - Alfa"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": "knj. br. 235"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Colin Wilson&Damon Wilson"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "S"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "MISTERIJE"
+            "w": "Enciklopedije"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.94"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "VILSON"
+            "b": "Kolin"
+
+    -
+      701:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "071"
+            "a": "VILSON"
+            "b": "Dejmon"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "MIJOVI\262"
+            "b": "Milica"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Colin"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Damon"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "16"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-331-2274-X"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "2005"
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Velika enciklopedija nere\353enih zagonetki"
+            "f": "Kolin, i Dejmon Vilson"
+            "g": "[prevela Milica Mijovi\263]"
+            "h": "[Deo 1]"
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "2. izd."
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2005"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "376 str."
+            "d": "21 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Posebna izdanja / Narodna knjiga - Alfa"
+            "v": "knj. br. 235"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Volin Wilson&Damon Wilson"
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "S"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "MISTERIJE"
+            "w": "Enciklopedije"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.94"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "VILSON"
+            "b": "Kolin"
+
+    -
+      701:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "071"
+            "a": "VILSON"
+            "b": "Dejmon"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "MIJOVI\262"
+            "b": "Milica"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Colin"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Damon"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ba"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "17"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-331-1994-3"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2005"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scr"
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Velika enciklopedija nere\353enih zagonetki"
+            "e": ""
+            "f": "Kolin i Dejmon Vilson"
+            "g": "[prevela Milica Mijovi\263]"
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2005"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "374 str."
+            "c": ""
+            "d": "21 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Posebna izdanja / Narodna knjiga - Alfa"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": "knj. br. 235"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prevod dela: The Mammoth Encyclopedia of Unsolved Mysteries / Colin Wilson&Damon Wilson"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      330:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "S"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "MISTERIJE"
+            "w": "Enciklopedije"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.94"
+            "b": "001"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "VILSON"
+            "b": "Kolin"
+
+    -
+      701:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "071"
+            "a": "VILSON"
+            "b": "Dejmon"
+
+    -
+      702:
+        -
+          ind1: 1
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "MIJOVI\262"
+            "b": "Milica"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Colin"
+
+    -
+      900:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "WILSON"
+            "b": "Damon"
+
+    -
+      901:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": ""
+            "a": ""
+            "b": ""
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "cb"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "18"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "978-86-17-14065-4"
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "c": "2007"
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 1
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "scc"
+            "c": "fre"
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "srb"
+
+    -
+      200:
+        -
+          ind1: 1
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\1045\1074\1088\1086\1087\1072 \1086\1090\1082\1088\1080\1115\1072"
+            "f": "\1087\1088\1080\1088\1077\1076\1080\1086 \1044\1072\1074\1080\1076 \1046\1072\1089\1084\1077\1085"
+            "g": "\1089 \1092\1088\1072\1085\1094\1091\1089\1082\1086\1075 \1087\1088\1077\1074\1077\1086 \1057\1090\1077\1074\1072\1085 \1032\1086\1082\1080\1115"
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "1. \1080\1079\1076."
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\1041\1077\1086\1075\1088\1072\1076"
+            "c": "\1047\1072\1074\1086\1076 \1079\1072 \1091\1119\1073\1077\1085\1080\1082\1077"
+            "d": "2007"
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "VIII, 296 \1089\1090\1088."
+            "c": "\1080\1083\1091\1089\1090\1088."
+            "d": "20 \1094\1084"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\1055\1088\1077\1074\1086\1076 \1076\1077\1083\1072: L'Europe des d\233couvertes / sous la direction de David Jasmin"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\1057\1090\1088. V-VIII: \1055\1088\1077\1076\1075\1086\1074\1086\1088 / \1055\1072\1086\1083\1086 \1041\1088\1077\1085\1080"
+
+    -
+      500:
+        -
+          ind1: 1
+        -
+          ind2: 0
+        -
+          subfields:
+            "a": "L'Europe des d\233couvertes"
+            "a": "L'Europe des decouvertes"
+
+    -
+      532:
+        -
+          ind1: 1
+        -
+          ind2: 3
+        -
+          subfields:
+            "a": "Evropa otkri\263a"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "PRONALASCI (nauka)"
+            "x": "Istorija"
+            "6": "01"
+
+    -
+      606:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "NAUKA"
+            "x": "Razvoj"
+            "x": "Istorija"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.894(4)(091)"
+            "b": "001"
+
+    -
+      702:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "902"
+            "6": "01"
+            "a": "\381ASMEN"
+            "b": "David"
+
+    -
+      702:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "730"
+            "a": "JOKI\262"
+            "b": "Stevan"
+
+    -
+      702:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "912"
+            "6": "02"
+            "a": "BRENI"
+            "b": "Paolo"
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": "01"
+            "a": "JASMIN"
+            "b": "David"
+
+    -
+      902:
+        -
+          ind1:  
+        -
+          ind2: 3
+        -
+          subfields:
+            "6": "02"
+            "a": "BRENNI"
+            "b": "Paolo"
+
+    -
+      966:
+        -
+          ind1: 3
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "v. i Geografska otkri\263a"
+            "6": "01"
+
+    -
+      992:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+
+
+-
+  leader: ""
+  controlfields:
+  datafields:
+    -
+      001:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "7": "ca"
+            "a": "c"
+            "b": "a"
+            "c": "m"
+            "d": "0"
+            "e": "19"
+
+    -
+      010:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "86-331-0302-8"
+            "b": ""
+            "d": ""
+
+    -
+      100:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "b": ""
+            "c": "2001"
+            "d": ""
+            "h": "scr"
+
+    -
+      101:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "c": ""
+
+    -
+      102:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "yug"
+            "b": ""
+
+    -
+      105:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "y"
+            "b": ""
+            "f": ""
+
+    -
+      200:
+        -
+          ind1: 0
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Osnovi tekstologije"
+            "e": "(uvod u tekstologiju nove srpske knji\382evnosti)"
+            "f": "Du\353an Ivani\263"
+            "g": ""
+            "h": ""
+            "i": ""
+
+    -
+      205:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      210:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Beograd"
+            "c": "Narodna knjiga - Alfa"
+            "d": "2001"
+            "e": ""
+            "g": ""
+
+    -
+      215:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "297 str."
+            "c": ""
+            "d": "20 cm"
+
+    -
+      225:
+        -
+          ind1: 2
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Pojmovnik / Narodna knjiga - Alfa"
+            "e": ""
+            "f": ""
+            "h": ""
+            "i": ""
+            "v": "knj. 57"
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "\262ir."
+
+    -
+      300:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Prilozi: str. 274-286"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Bibliografija: str. 259-271"
+
+    -
+      320:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "Registri"
+
+    -
+      464:
+        -
+          ind1:  
+        -
+          ind2: 0
+        -
+          subfields:
+            "1": ""
+
+    -
+      500:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      600:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      601:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+            "b": ""
+            "d": ""
+            "e": ""
+            "f": ""
+            "x": ""
+            "y": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "TEKST (lingvistika)"
+            "x": ""
+            "y": ""
+            "z": ""
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "TEKSTOLOGIJA"
+
+    -
+      606:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "KNJI\381EVNO DELO"
+            "x": "Priprema za \353tampu"
+
+    -
+      610:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": ""
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "001.816"
+            "b": "001"
+
+    -
+      675:
+        -
+          ind1:  
+        -
+          ind2:  
+        -
+          subfields:
+            "a": "82.01"
+            "b": "82"
+
+    -
+      700:
+        -
+          ind1:  
+        -
+          ind2: 1
+        -
+          subfields:
+            "4": "070"
+            "a": "IVANI\262"
+            "b": ""
+
+

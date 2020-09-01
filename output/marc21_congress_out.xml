@@ -1,0 +1,79 @@
+<collection>
+  <record>
+    <leader>00888cam a2200253u 4500</leader>
+    <controlfield tag="001">6840872</controlfield>
+    <controlfield tag="005">20190127101238.0</controlfield>
+    <controlfield tag="007">cr_|||||||||||</controlfield>
+    <controlfield tag="008">820625s1917 ctuab 000 0 eng</controlfield>
+    <datafield tag="906" ind1="_" ind2="_">
+      <subfield code="a">0</subfield>
+      <subfield code="b">cbc</subfield>
+      <subfield code="c">premunv</subfield>
+      <subfield code="d">u</subfield>
+      <subfield code="e">ncip</subfield>
+      <subfield code="f">19</subfield>
+      <subfield code="g">y-gencatlg</subfield>
+    </datafield>
+    <datafield tag="010" ind1="_" ind2="_">
+      <subfield code="a">17025544</subfield>
+    </datafield>
+    <datafield tag="035" ind1="_" ind2="_">
+      <subfield code="9">(DLC) 17025544</subfield>
+    </datafield>
+    <datafield tag="040" ind1="_" ind2="_">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">CarP</subfield>
+      <subfield code="d">DLC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">PR2810.A2</subfield>
+      <subfield code="b">H4</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="_">
+      <subfield code="a">Shakespeare, William,</subfield>
+      <subfield code="d">1564-1616.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The first part of King Henry the Fourth,</subfield>
+    </datafield>
+    <datafield tag="260" ind1="_" ind2="_">
+      <subfield code="a">New Haven,</subfield>
+      <subfield code="b">Yale university press; [etc., etc.]</subfield>
+      <subfield code="c">1917.</subfield>
+    </datafield>
+    <datafield tag="300" ind1="_" ind2="_">
+      <subfield code="a">4 p.</subfield>
+      <subfield code="b">l., 148 p. illus. (map)</subfield>
+      <subfield code="c">18 cm.</subfield>
+    </datafield>
+    <datafield tag="530" ind1="_" ind2="_">
+      <subfield code="a">Also available in digital form.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Henry</subfield>
+      <subfield code="b">IV,</subfield>
+      <subfield code="c">King of England,</subfield>
+      <subfield code="d">1367-1413</subfield>
+      <subfield code="x">Drama.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="_">
+      <subfield code="a">Hemingway, Samuel Burdett,</subfield>
+      <subfield code="d">1883-1958,</subfield>
+      <subfield code="e">ed.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00139980359</subfield>
+    </datafield>
+    <datafield tag="991" ind1="_" ind2="_">
+      <subfield code="b">c-GenColl</subfield>
+      <subfield code="h">PR2810.A2</subfield>
+      <subfield code="i">H4</subfield>
+      <subfield code="t">Copy 1</subfield>
+      <subfield code="w">PREM</subfield>
+    </datafield>
+    <datafield tag="985" ind1="_" ind2="_">
+      <subfield code="a">massdig</subfield>
+      <subfield code="e">sloan</subfield>
+    </datafield>
+  </record>
+</collection>

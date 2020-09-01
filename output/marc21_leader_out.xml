@@ -1,0 +1,99 @@
+<collection>
+  <record>
+    <leader>01471cjm a2200349 a 4500</leader>
+    <controlfield tag="001">5674874</controlfield>
+    <controlfield tag="005">20030305110405.0</controlfield>
+    <controlfield tag="007">sdubsmennmplu</controlfield>
+    <controlfield tag="008">930331s1963 nyuppn eng d</controlfield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="9">(DLC) 93707283</subfield>
+    </datafield>
+    <datafield tag="906" ind1="#" ind2="#">
+      <subfield code="a">7</subfield>
+      <subfield code="b">cbc</subfield>
+      <subfield code="c">copycat</subfield>
+      <subfield code="d">4</subfield>
+      <subfield code="e">ncip</subfield>
+      <subfield code="f">19</subfield>
+      <subfield code="g">y-soundrec</subfield>
+    </datafield>
+    <datafield tag="010" ind1="#" ind2="#">
+      <subfield code="a">93707283</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="2">
+      <subfield code="a">CS 8786</subfield>
+      <subfield code="b">Columbia</subfield>
+    </datafield>
+    <datafield tag="035" ind1="#" ind2="#">
+      <subfield code="a">(OCoLC)13083787</subfield>
+    </datafield>
+    <datafield tag="040" ind1="#" ind2="#">
+      <subfield code="a">OClU</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">DLC</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2="#">
+      <subfield code="d">eng</subfield>
+      <subfield code="g">eng</subfield>
+    </datafield>
+    <datafield tag="042" ind1="#" ind2="#">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">Columbia CS 8786</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Dylan, Bob,</subfield>
+      <subfield code="d">1941-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The freewheelin' Bob Dylan</subfield>
+      <subfield code="h">[sound recording].</subfield>
+    </datafield>
+    <datafield tag="260" ind1="#" ind2="#">
+      <subfield code="a">[New York, N.Y.] :</subfield>
+      <subfield code="b">Columbia,</subfield>
+      <subfield code="c">[1963]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 sound disc :</subfield>
+      <subfield code="b">analog, 33 1/3 rpm, stereo. ;</subfield>
+      <subfield code="c">12 in.</subfield>
+    </datafield>
+    <datafield tag="500" ind1="#" ind2="#">
+      <subfield code="a">Songs.</subfield>
+    </datafield>
+    <datafield tag="511" ind1="0" ind2="#">
+      <subfield code="a">The composer accompanying himself on the guitar ; in part with instrumental ensemble.</subfield>
+    </datafield>
+    <datafield tag="500" ind1="#" ind2="#">
+      <subfield code="a">Program notes by Nat Hentoff on container.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2="#">
+      <subfield code="a">Blowin' in the wind -- Girl from the north country -- Masters of war -- Down the highway -- Bob Dylan's blues -- A hard rain's a-gonna fall -- Don't think twice, it's all right -- Bob Dylan's dream -- Oxford town -- Talking World War III blues -- Corrina, Corrina -- Honey, just allow me one more chance -- I shall be free.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="0" ind2="#">
+      <subfield code="a">Popular music</subfield>
+      <subfield code="y">1961-1970.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="0" ind2="#">
+      <subfield code="a">Blues (Music)</subfield>
+      <subfield code="y">1961-1970.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="3">Preservation copy (limited access)</subfield>
+      <subfield code="u">http://hdl.loc.gov/loc.mbrsrs/lp0001.dyln</subfield>
+    </datafield>
+    <datafield tag="952" ind1="#" ind2="#">
+      <subfield code="a">New</subfield>
+    </datafield>
+    <datafield tag="953" ind1="#" ind2="#">
+      <subfield code="a">TA28</subfield>
+    </datafield>
+    <datafield tag="991" ind1="#" ind2="#">
+      <subfield code="b">c-RecSound</subfield>
+      <subfield code="h">Columbia CS 8786</subfield>
+      <subfield code="w">MUSIC</subfield>
+    </datafield>
+  </record>
+</collection>

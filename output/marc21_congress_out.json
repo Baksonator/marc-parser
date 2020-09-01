@@ -23,22 +23,22 @@
 					"subfields":
 					[
 						{
-							"a":"0"
+							"a":"0 "
 						},
 						{
-							"b":"cbc"
+							"b":"cbc "
 						},
 						{
-							"c":"premunv"
+							"c":"premunv "
 						},
 						{
-							"d":"u"
+							"d":"u "
 						},
 						{
-							"e":"ncip"
+							"e":"ncip "
 						},
 						{
-							"f":"19"
+							"f":"19 "
 						},
 						{
 							"g":"y-gencatlg"
@@ -80,10 +80,10 @@
 					"subfields":
 					[
 						{
-							"a":"DLC"
+							"a":"DLC "
 						},
 						{
-							"c":"CarP"
+							"c":"CarP "
 						},
 						{
 							"d":"DLC"
@@ -99,7 +99,7 @@
 					"subfields":
 					[
 						{
-							"a":"PR2810.A2"
+							"a":"PR2810.A2 "
 						},
 						{
 							"b":"H4"
@@ -115,7 +115,7 @@
 					"subfields":
 					[
 						{
-							"a":"Shakespeare, William,"
+							"a":"Shakespeare, William, "
 						},
 						{
 							"d":"1564-1616."
@@ -144,10 +144,10 @@
 					"subfields":
 					[
 						{
-							"a":"New Haven,"
+							"a":"New Haven, "
 						},
 						{
-							"b":"Yale university press; [etc., etc.]"
+							"b":"Yale university press; [etc., etc.] "
 						},
 						{
 							"c":"1917."
@@ -163,10 +163,10 @@
 					"subfields":
 					[
 						{
-							"a":"4 p."
+							"a":"4 p. "
 						},
 						{
-							"b":"l., 148 p. illus. (map)"
+							"b":"l., 148 p. illus. (map) "
 						},
 						{
 							"c":"18 cm."
@@ -195,16 +195,16 @@
 					"subfields":
 					[
 						{
-							"a":"Henry"
+							"a":"Henry "
 						},
 						{
-							"b":"IV,"
+							"b":"IV, "
 						},
 						{
-							"c":"King of England,"
+							"c":"King of England, "
 						},
 						{
-							"d":"1367-1413"
+							"d":"1367-1413 "
 						},
 						{
 							"x":"Drama."
@@ -220,10 +220,10 @@
 					"subfields":
 					[
 						{
-							"a":"Hemingway, Samuel Burdett,"
+							"a":"Hemingway, Samuel Burdett, "
 						},
 						{
-							"d":"1883-1958,"
+							"d":"1883-1958, "
 						},
 						{
 							"e":"ed."
@@ -252,16 +252,16 @@
 					"subfields":
 					[
 						{
-							"b":"c-GenColl"
+							"b":"c-GenColl "
 						},
 						{
-							"h":"PR2810.A2"
+							"h":"PR2810.A2 "
 						},
 						{
-							"i":"H4"
+							"i":"H4 "
 						},
 						{
-							"t":"Copy 1"
+							"t":"Copy 1 "
 						},
 						{
 							"w":"PREM"
@@ -277,7 +277,7 @@
 					"subfields":
 					[
 						{
-							"a":"massdig"
+							"a":"massdig "
 						},
 						{
 							"e":"sloan"

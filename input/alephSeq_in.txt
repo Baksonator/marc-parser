@@ -1,0 +1,11 @@
+000000228 LDR   L ^^^^^nam^a22002891^^4500
+000000228 001   L 000000228
+000000228 006   L m^^^^^^^^d^^^^^^^^
+000000228 007   L cr^bn^---auaua
+000000228 008   L 880715r19691828nyuab^^^^^^^^|00000^eng^^
+000000228 010   L $$a68055188
+000000228 020   L $$a083711750X
+000000228 035   L $$a(RLIN)MIUG0021856-B
+000000794 24514 L $$aThe descent of manuscripts.
+000000794 60010 L $$aCicero, Marcus Tullius$$xManuscripts.
+000000794 60000 L $$aPlato.$$tCritias$$xManuscripts.
