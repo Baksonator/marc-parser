@@ -1,107 +1,107 @@
-[
-	{
-		"leader":"^^^^^nam^a22002891^^4500",
-		"fields":
-		[
-			{
-				"001":"000000228"
-			},
-			{
-				"006":"m^^^^^^^^d^^^^^^^^"
-			},
-			{
-				"007":"cr^bn^---auaua"
-			},
-			{
-				"008":"880715r19691828nyuab^^^^^^^^|00000^eng^^"
-			},
-			{
-				"010":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"68055188"
-						}
-					]
-				}
-			},
-			{
-				"020":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"083711750X"
-						}
-					]
-				}
-			},
-			{
-				"035":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"(RLIN)MIUG0021856-B"
-						}
-					]
-				}
-			},
-			{
-				"245":
-				{
-					"ind1":"1",
-					"ind2":"4",
-					"subfields":
-					[
-						{
-							"a":"The descent of manuscripts."
-						}
-					]
-				}
-			},
-			{
-				"600":
-				{
-					"ind1":"1",
-					"ind2":"0",
-					"subfields":
-					[
-						{
-							"a":"Cicero, Marcus Tullius"
-						},
-						{
-							"x":"Manuscripts."
-						}
-					]
-				}
-			},
-			{
-				"600":
-				{
-					"ind1":"0",
-					"ind2":"0",
-					"subfields":
-					[
-						{
-							"a":"Plato."
-						},
-						{
-							"t":"Critias"
-						},
-						{
-							"x":"Manuscripts."
-						}
-					]
-				}
-			}
-		]
-	}
-]
+{
+    "records": [
+        {
+            "leader": {
+                "leaderValue": "^^^^^nam^a22002891^^4500"
+            },
+            "controlfields": [
+                {
+                    "cfNumberTag": "001",
+                    "controlValue": "000000228"
+                },
+                {
+                    "cfNumberTag": "006",
+                    "controlValue": "m^^^^^^^^d^^^^^^^^"
+                },
+                {
+                    "cfNumberTag": "007",
+                    "controlValue": "cr^bn^---auaua"
+                },
+                {
+                    "cfNumberTag": "008",
+                    "controlValue": "880715r19691828nyuab^^^^^^^^|00000^eng^^"
+                }
+            ],
+            "datafields": [
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "68055188"
+                        }
+                    ],
+                    "dfNumberTag": "010",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "083711750X"
+                        }
+                    ],
+                    "dfNumberTag": "020",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "(RLIN)MIUG0021856-B"
+                        }
+                    ],
+                    "dfNumberTag": "035",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "The descent of manuscripts."
+                        }
+                    ],
+                    "dfNumberTag": "245",
+                    "ind2": "4"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Cicero, Marcus Tullius"
+                        },
+                        {
+                            "fieldTag": "x",
+                            "fieldValue": "Manuscripts."
+                        }
+                    ],
+                    "dfNumberTag": "600",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Plato."
+                        },
+                        {
+                            "fieldTag": "t",
+                            "fieldValue": "Critias"
+                        },
+                        {
+                            "fieldTag": "x",
+                            "fieldValue": "Manuscripts."
+                        }
+                    ],
+                    "dfNumberTag": "600",
+                    "ind2": "0"
+                }
+            ]
+        }
+    ]
+}

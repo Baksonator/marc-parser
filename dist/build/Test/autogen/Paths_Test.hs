@@ -38,7 +38,7 @@ getBinDir :: IO FilePath
 getBinDir = getPrefixDirRel bindirrel
 
 getLibDir :: IO FilePath
-getLibDir = getPrefixDirRel "x86_64-windows-ghc-8.6.3\\Test-0.1.0.0-KfOrlfR1YVDAmtLmnhidk-Test"
+getLibDir = getPrefixDirRel "x86_64-windows-ghc-8.6.3\\Test-0.1.0.0-BR1qFEl4XozFVyGDJabcXQ-Test"
 
 getDynLibDir :: IO FilePath
 getDynLibDir = getPrefixDirRel "x86_64-windows-ghc-8.6.3"
@@ -47,7 +47,7 @@ getDataDir :: IO FilePath
 getDataDir =  catchIO (getEnv "Test_datadir") (\_ -> getPrefixDirRel "x86_64-windows-ghc-8.6.3\\Test-0.1.0.0")
 
 getLibexecDir :: IO FilePath
-getLibexecDir = getPrefixDirRel "Test-0.1.0.0-KfOrlfR1YVDAmtLmnhidk-Test\\x86_64-windows-ghc-8.6.3\\Test-0.1.0.0"
+getLibexecDir = getPrefixDirRel "Test-0.1.0.0-BR1qFEl4XozFVyGDJabcXQ-Test\\x86_64-windows-ghc-8.6.3\\Test-0.1.0.0"
 
 getSysconfDir :: IO FilePath
 getSysconfDir = getPrefixDirRel "etc"

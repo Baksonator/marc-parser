@@ -11,6 +11,28 @@
   (major1) == 0 && (major2) == 1 && (minor) <= 0)
 #endif /* MIN_VERSION_Test */
 
+/* package aeson-1.5.3.0 */
+#ifndef VERSION_aeson
+#define VERSION_aeson "1.5.3.0"
+#endif /* VERSION_aeson */
+#ifndef MIN_VERSION_aeson
+#define MIN_VERSION_aeson(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  5 || \
+  (major1) == 1 && (major2) == 5 && (minor) <= 3)
+#endif /* MIN_VERSION_aeson */
+
+/* package aeson-pretty-0.8.8 */
+#ifndef VERSION_aeson_pretty
+#define VERSION_aeson_pretty "0.8.8"
+#endif /* VERSION_aeson_pretty */
+#ifndef MIN_VERSION_aeson_pretty
+#define MIN_VERSION_aeson_pretty(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  8 || \
+  (major1) == 0 && (major2) == 8 && (minor) <= 8)
+#endif /* MIN_VERSION_aeson_pretty */
+
 /* package base-4.12.0.0 */
 #ifndef VERSION_base
 #define VERSION_base "4.12.0.0"
@@ -21,6 +43,17 @@
   (major1) == 4 && (major2) <  12 || \
   (major1) == 4 && (major2) == 12 && (minor) <= 0)
 #endif /* MIN_VERSION_base */
+
+/* package bytestring-0.10.8.2 */
+#ifndef VERSION_bytestring
+#define VERSION_bytestring "0.10.8.2"
+#endif /* VERSION_bytestring */
+#ifndef MIN_VERSION_bytestring
+#define MIN_VERSION_bytestring(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  10 || \
+  (major1) == 0 && (major2) == 10 && (minor) <= 8)
+#endif /* MIN_VERSION_bytestring */
 
 /* package configurator-0.3.0.0 */
 #ifndef VERSION_configurator
@@ -44,15 +77,37 @@
   (major1) == 3 && (major2) == 1 && (minor) <= 13)
 #endif /* MIN_VERSION_parsec */
 
-/* package text-1.2.4.0 */
+/* package sorted-list-0.2.1.0 */
+#ifndef VERSION_sorted_list
+#define VERSION_sorted_list "0.2.1.0"
+#endif /* VERSION_sorted_list */
+#ifndef MIN_VERSION_sorted_list
+#define MIN_VERSION_sorted_list(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  2 || \
+  (major1) == 0 && (major2) == 2 && (minor) <= 1)
+#endif /* MIN_VERSION_sorted_list */
+
+/* package stringbuilder-0.5.1 */
+#ifndef VERSION_stringbuilder
+#define VERSION_stringbuilder "0.5.1"
+#endif /* VERSION_stringbuilder */
+#ifndef MIN_VERSION_stringbuilder
+#define MIN_VERSION_stringbuilder(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  5 || \
+  (major1) == 0 && (major2) == 5 && (minor) <= 1)
+#endif /* MIN_VERSION_stringbuilder */
+
+/* package text-1.2.3.1 */
 #ifndef VERSION_text
-#define VERSION_text "1.2.4.0"
+#define VERSION_text "1.2.3.1"
 #endif /* VERSION_text */
 #ifndef MIN_VERSION_text
 #define MIN_VERSION_text(major1,major2,minor) (\
   (major1) <  1 || \
   (major1) == 1 && (major2) <  2 || \
-  (major1) == 1 && (major2) == 2 && (minor) <= 4)
+  (major1) == 1 && (major2) == 2 && (minor) <= 3)
 #endif /* MIN_VERSION_text */
 
 /* package unordered-containers-0.2.12.0 */
@@ -188,7 +243,7 @@
 #endif /* MIN_TOOL_VERSION_strip */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "Test-0.1.0.0-KfOrlfR1YVDAmtLmnhidk-Test"
+#define CURRENT_COMPONENT_ID "Test-0.1.0.0-BR1qFEl4XozFVyGDJabcXQ-Test"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"

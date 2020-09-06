@@ -1,290 +1,294 @@
-[
-	{
-		"leader":"00888cam a2200253u 4500",
-		"fields":
-		[
-			{
-				"001":"6840872"
-			},
-			{
-				"005":"20190127101238.0"
-			},
-			{
-				"007":"cr_|||||||||||"
-			},
-			{
-				"008":"820625s1917 ctuab 000 0 eng"
-			},
-			{
-				"906":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"0 "
-						},
-						{
-							"b":"cbc "
-						},
-						{
-							"c":"premunv "
-						},
-						{
-							"d":"u "
-						},
-						{
-							"e":"ncip "
-						},
-						{
-							"f":"19 "
-						},
-						{
-							"g":"y-gencatlg"
-						}
-					]
-				}
-			},
-			{
-				"010":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"17025544"
-						}
-					]
-				}
-			},
-			{
-				"035":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"9":"(DLC) 17025544"
-						}
-					]
-				}
-			},
-			{
-				"040":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"DLC "
-						},
-						{
-							"c":"CarP "
-						},
-						{
-							"d":"DLC"
-						}
-					]
-				}
-			},
-			{
-				"050":
-				{
-					"ind1":"0",
-					"ind2":"0",
-					"subfields":
-					[
-						{
-							"a":"PR2810.A2 "
-						},
-						{
-							"b":"H4"
-						}
-					]
-				}
-			},
-			{
-				"100":
-				{
-					"ind1":"1",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"Shakespeare, William, "
-						},
-						{
-							"d":"1564-1616."
-						}
-					]
-				}
-			},
-			{
-				"245":
-				{
-					"ind1":"1",
-					"ind2":"4",
-					"subfields":
-					[
-						{
-							"a":"The first part of King Henry the Fourth,"
-						}
-					]
-				}
-			},
-			{
-				"260":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"New Haven, "
-						},
-						{
-							"b":"Yale university press; [etc., etc.] "
-						},
-						{
-							"c":"1917."
-						}
-					]
-				}
-			},
-			{
-				"300":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"4 p. "
-						},
-						{
-							"b":"l., 148 p. illus. (map) "
-						},
-						{
-							"c":"18 cm."
-						}
-					]
-				}
-			},
-			{
-				"530":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"Also available in digital form."
-						}
-					]
-				}
-			},
-			{
-				"600":
-				{
-					"ind1":"0",
-					"ind2":"0",
-					"subfields":
-					[
-						{
-							"a":"Henry "
-						},
-						{
-							"b":"IV, "
-						},
-						{
-							"c":"King of England, "
-						},
-						{
-							"d":"1367-1413 "
-						},
-						{
-							"x":"Drama."
-						}
-					]
-				}
-			},
-			{
-				"700":
-				{
-					"ind1":"1",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"Hemingway, Samuel Burdett, "
-						},
-						{
-							"d":"1883-1958, "
-						},
-						{
-							"e":"ed."
-						}
-					]
-				}
-			},
-			{
-				"856":
-				{
-					"ind1":"4",
-					"ind2":"1",
-					"subfields":
-					[
-						{
-							"u":"http://hdl.loc.gov/loc.gdc/scd0001.00139980359"
-						}
-					]
-				}
-			},
-			{
-				"991":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"b":"c-GenColl "
-						},
-						{
-							"h":"PR2810.A2 "
-						},
-						{
-							"i":"H4 "
-						},
-						{
-							"t":"Copy 1 "
-						},
-						{
-							"w":"PREM"
-						}
-					]
-				}
-			},
-			{
-				"985":
-				{
-					"ind1":"_",
-					"ind2":"_",
-					"subfields":
-					[
-						{
-							"a":"massdig "
-						},
-						{
-							"e":"sloan"
-						}
-					]
-				}
-			}
-		]
-	}
-]
+{
+    "records": [
+        {
+            "leader": {
+                "leaderValue": "00888cam a2200253u 4500"
+            },
+            "controlfields": [
+                {
+                    "cfNumberTag": "001",
+                    "controlValue": "6840872"
+                },
+                {
+                    "cfNumberTag": "005",
+                    "controlValue": "20190127101238.0"
+                },
+                {
+                    "cfNumberTag": "007",
+                    "controlValue": "cr_|||||||||||"
+                },
+                {
+                    "cfNumberTag": "008",
+                    "controlValue": "820625s1917 ctuab 000 0 eng"
+                }
+            ],
+            "datafields": [
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "0"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "cbc"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "premunv"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "u"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "ncip"
+                        },
+                        {
+                            "fieldTag": "f",
+                            "fieldValue": "19"
+                        },
+                        {
+                            "fieldTag": "g",
+                            "fieldValue": "y-gencatlg"
+                        }
+                    ],
+                    "dfNumberTag": "906",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "17025544"
+                        }
+                    ],
+                    "dfNumberTag": "010",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "9",
+                            "fieldValue": "(DLC) 17025544"
+                        }
+                    ],
+                    "dfNumberTag": "035",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "DLC"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "CarP"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "DLC"
+                        }
+                    ],
+                    "dfNumberTag": "040",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "PR2810.A2"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "H4"
+                        }
+                    ],
+                    "dfNumberTag": "050",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Shakespeare, William,"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "1564-1616."
+                        }
+                    ],
+                    "dfNumberTag": "100",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "The first part of King Henry the Fourth,"
+                        }
+                    ],
+                    "dfNumberTag": "245",
+                    "ind2": "4"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "New Haven,"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "Yale university press; [etc., etc.]"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "1917."
+                        }
+                    ],
+                    "dfNumberTag": "260",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "4 p."
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "l., 148 p. illus. (map)"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "18 cm."
+                        }
+                    ],
+                    "dfNumberTag": "300",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Also available in digital form."
+                        }
+                    ],
+                    "dfNumberTag": "530",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Henry"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "IV,"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "King of England,"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "1367-1413"
+                        },
+                        {
+                            "fieldTag": "x",
+                            "fieldValue": "Drama."
+                        }
+                    ],
+                    "dfNumberTag": "600",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Hemingway, Samuel Burdett,"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "1883-1958,"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "ed."
+                        }
+                    ],
+                    "dfNumberTag": "700",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "4",
+                    "subfields": [
+                        {
+                            "fieldTag": "u",
+                            "fieldValue": "http://hdl.loc.gov/loc.gdc/scd0001.00139980359"
+                        }
+                    ],
+                    "dfNumberTag": "856",
+                    "ind2": "1"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "c-GenColl"
+                        },
+                        {
+                            "fieldTag": "h",
+                            "fieldValue": "PR2810.A2"
+                        },
+                        {
+                            "fieldTag": "i",
+                            "fieldValue": "H4"
+                        },
+                        {
+                            "fieldTag": "t",
+                            "fieldValue": "Copy 1"
+                        },
+                        {
+                            "fieldTag": "w",
+                            "fieldValue": "PREM"
+                        }
+                    ],
+                    "dfNumberTag": "991",
+                    "ind2": "_"
+                },
+                {
+                    "ind1": "_",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "massdig"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "sloan"
+                        }
+                    ],
+                    "dfNumberTag": "985",
+                    "ind2": "_"
+                }
+            ]
+        }
+    ]
+}

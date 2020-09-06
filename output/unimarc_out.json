@@ -1,206 +1,200 @@
-[
-	{
-		"leader":"",
-		"fields":
-		[
-			{
-				"001":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"7":"ba"
-						},
-						{
-							"a":"i"
-						},
-						{
-							"b":"a"
-						},
-						{
-							"c":"m"
-						},
-						{
-							"d":"a"
-						},
-						{
-							"e":"6172"
-						}
-					]
-				}
-			},
-			{
-				"100":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"b":"d"
-						},
-						{
-							"c":"1941"
-						},
-						{
-							"h":"scr"
-						}
-					]
-				}
-			},
-			{
-				"101":
-				{
-					"ind1":"0",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"eng"
-						}
-					]
-				}
-			},
-			{
-				"102":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"usa"
-						}
-					]
-				}
-			},
-			{
-				"200":
-				{
-					"ind1":"0",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"The Calculi of Lambda-Conversion"
-						},
-						{
-							"e":"Alonzo Church"
-						}
-					]
-				}
-			},
-			{
-				"210":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"Princeton"
-						},
-						{
-							"c":"Princeton University"
-						},
-						{
-							"d":"1941"
-						}
-					]
-				}
-			},
-			{
-				"215":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"2+82 str."
-						},
-						{
-							"d":"25 cm"
-						}
-					]
-				}
-			},
-			{
-				"225":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"Annals of Mathematics Studies"
-						},
-						{
-							"v":"6"
-						}
-					]
-				}
-			},
-			{
-				"610":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"Verovatnoca i statistika"
-						}
-					]
-				}
-			},
-			{
-				"675":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"a":"519.2"
-						}
-					]
-				}
-			},
-			{
-				"700":
-				{
-					"ind1":"#",
-					"ind2":"1",
-					"subfields":
-					[
-						{
-							"4":"070"
-						},
-						{
-							"a":"Church"
-						},
-						{
-							"b":"Alonzo"
-						}
-					]
-				}
-			},
-			{
-				"992":
-				{
-					"ind1":"#",
-					"ind2":"#",
-					"subfields":
-					[
-						{
-							"b":"cralex9702-old-l02"
-						}
-					]
-				}
-			}
-		]
-	}
-]
+{
+    "records": [
+        {
+            "leader": {
+                "leaderValue": ""
+            },
+            "controlfields": [],
+            "datafields": [
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "7",
+                            "fieldValue": "ba"
+                        },
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "i"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "a"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "m"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "a"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "6172"
+                        }
+                    ],
+                    "dfNumberTag": "001",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "d"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "1941"
+                        },
+                        {
+                            "fieldTag": "h",
+                            "fieldValue": "scr"
+                        }
+                    ],
+                    "dfNumberTag": "100",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "eng"
+                        }
+                    ],
+                    "dfNumberTag": "101",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "usa"
+                        }
+                    ],
+                    "dfNumberTag": "102",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "The Calculi of Lambda-Conversion"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "Alonzo Church"
+                        }
+                    ],
+                    "dfNumberTag": "200",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Princeton"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "Princeton University"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "1941"
+                        }
+                    ],
+                    "dfNumberTag": "210",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "2+82 str."
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "25 cm"
+                        }
+                    ],
+                    "dfNumberTag": "215",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Annals of Mathematics Studies"
+                        },
+                        {
+                            "fieldTag": "v",
+                            "fieldValue": "6"
+                        }
+                    ],
+                    "dfNumberTag": "225",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Verovatnoca i statistika"
+                        }
+                    ],
+                    "dfNumberTag": "610",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "519.2"
+                        }
+                    ],
+                    "dfNumberTag": "675",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "4",
+                            "fieldValue": "070"
+                        },
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Church"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "Alonzo"
+                        }
+                    ],
+                    "dfNumberTag": "700",
+                    "ind2": "1"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "cralex9702-old-l02"
+                        }
+                    ],
+                    "dfNumberTag": "992",
+                    "ind2": "#"
+                }
+            ]
+        }
+    ]
+}
