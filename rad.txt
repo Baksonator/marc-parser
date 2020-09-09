@@ -1,0 +1,36 @@
+NASLOV: Implementacija MARC Parsera korisecnjem Parser kombinatora
+
+Sve slike i listinzi imaju oznaku x.y (2.2) i na svaku sliku/listing se moramo pozvati iz teksta
+
+Apsolutno sve mora da se referencira sto je uzeto odnekle. Na kraju su poredjane po redosledu pozivanja u tekstu.
+
+SADRZAJ:
+1. UVOD (po jedan-dva pasusa svaka tacka, ~pola strane)
+	Koji problem se resava, opis problema, sta je parsiranje
+	1.1 MOTIVACIJA
+		Univerzalni parser, razni MARC formati, mogu se vrsiti i izmene, reverse konverzija, objasniti zasto je korisno
+	1.2 MARC format, objasniti sve sto treba znati o njemu na primeru
+	1.3 Parser kombinatori, filozofija parsiranja u haskelu, po cemu se razlikuje od Parser generatora
+	1.4 Haskell i pomocne biblioteke
+
+2. Parsiranje MARC zapisa
+	2.1 Gramatika MARC zapisa (i parser za jedan specifican format)
+	2.2 Konfiguracija parsera (slicnosti i razlike izmedju razlicitih formata)
+	2.3 Implementacija parsera koji podrzava vise formata (listing ovde moze kao primer)
+	2.4 Opis koriscenja parsera (sta je ulaz, sta se dobija kao izlaz)
+
+3. Serijalizacija MARC zapisa
+	3.1 Serijalizacija MARC zapisa u standardne struktuirane formate (JSON, XML, YAML) (u zadnjem pasusus konstatovati da moze uvek i obrnuto, postoje biblioteke)
+	3.2 Serijalizacija MARC zapisa u razlicite MARC formate
+
+4. Obrada MARC zapisa nakon parsiranja
+	Kod svakog pocetka poglavlja mali uvod, dodati neki tekstic, ovde konkretno moze mala motivacija zasto se ovo radilo
+	4.1 Dodavanje elemenata
+	4.2 Izmena elemenata
+	4.3 Brisanje elemenata
+	4.4 Pregled elemenata
+
+5. Zakljucak
+	Na kraju ponoviti sta smo radili, zakljuciti koje su prednosti Parser kombinatora, problemi sa kojima smo se susreli, buduci rad koji se moze raditi na projektu (npr. snimanje u bazu)
+
+6. Literatura i reference (ako se koriste linkovi, ostaviti poslednji datum pristupa linku)

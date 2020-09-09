@@ -1,0 +1,24 @@
+LDR  01142cam**2200301*a*4500
+001 92005291
+003 DLC
+005 19930521155141.9
+008 920219s1993 caua j 000 0 eng
+010 ## $a92005291
+020 ## $a0152038655 :$c$15.95
+040 ## $aDLC$cDLC$dDLC
+042 ## $alcac
+050 00 $aPS3537.A618$bA88 1993
+082 00 $220$a811/.52
+100 1# $aSandburg, Carl,$d1878-1967.
+245 10 $aArithmetic /$cCarl Sandburg ; illustrated as an anamorphic adventure by Ted Rand.
+250 ## $a1st ed.
+260 ## $aSan Diego :$bHarcourt Brace Jovanovich,$cc1993.
+300 ## $a1 v. (unpaged) :$bill. (some col.) ;$c26 cm.
+500 ## $aOne Mylar sheet included in pocket.
+520 ## $aA poem about numbers and their characteristics. Features anamorphic, or distorted, drawings which can be restored to normal by viewing from a particular angle or by viewing the image's reflection in the provided Mylar cone.
+650 #0 $aArithmetic$xJuvenile poetry.
+650 #0 $aChildren's poetry, American.
+650 #1 $aArithmetic$xPoetry.
+650 #1 $aAmerican poetry.
+650 #1 $aVisual perception.
+700 1# $aRand, Ted,$eill.

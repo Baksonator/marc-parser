@@ -20,6 +20,7 @@ import Data.String.Builder
 import Data.Either
 import Data.String
 import qualified Data.SortedList as S
+import Control.Monad
 
 
 -- Grammar
@@ -34,17 +35,6 @@ data ControlField = ControlField { cfNumberTag :: NumberTag, controlValue :: Con
 data DataField = DataField { dfNumberTag :: NumberTag, ind1 :: Indicator, ind2 :: Indicator, subfields :: [SubField], dfFormat :: Maybe Format } deriving (Generic, Eq)
 
 data SubField = SubField { fieldTag :: FieldTag, fieldValue :: FieldValue, sfFormat :: Maybe Format } deriving (Generic, Eq)
-
-data MarcJSON = MarcJSON { leader1 :: String, controlfieldsJSON :: [ControlFieldJSON], datafieldsJSON :: [DataFieldJSON] } deriving (Generic, Show)
-
-data ControlFieldJSON = ControlFieldJSON { controlValueJSON :: String } deriving (Generic, Show)
-
-data DataFieldJSON = DataFieldJSON { dfNumberTagJSON :: DataFieldJSON1 } deriving (Generic, Show)
-
-data DataFieldJSON1 = DataFieldJSON1 { ind1JSON :: String, ind2JSON :: String, subfieldsJSON :: [SubFieldJSON] } deriving (Generic, Show)
-
-data SubFieldJSON = SubFieldJSON { fieldValueJSON :: String } deriving (Generic, Show)
-
 
 -- Type synonyms
 type LeaderTag = String
@@ -121,6 +111,7 @@ instance Show ControlField where
       | format == Just "json" = "\t\t\t\t" ++ show tag ++ ":" ++  show value
       | format == Just "xml" = "    <controlfield tag=" ++ show tag ++ ">" ++ id value ++ "</controlfield>"
       | format == Just "yaml" = "      " ++ id tag ++ ": " ++ id value
+      | format == Just "normal" = "{" ++ id tag ++ ":" ++ id value ++ "}"
       | otherwise = "\t\t\t\t" ++ show tag ++ ":" ++  show value
    
 instance Show DataField where
@@ -128,6 +119,7 @@ instance Show DataField where
       | format == Just "json" = "\t\t\t\t" ++ show tag ++ ":\n\t\t\t\t{\n\t\t\t\t\t\"ind1\":" ++ show ind1 ++ ",\n\t\t\t\t\t\"ind2\":" ++ show ind2 ++ ",\n\t\t\t\t\t\"subfields\":\n\t\t\t\t\t[" ++ showSubFldsJSON subFlds ++ "\n\t\t\t\t\t]\n\t\t\t\t}"
       | format == Just "xml" = "    <datafield tag=" ++ show tag ++ " ind1=" ++ show ind1 ++ " ind2=" ++ show ind2 ++ ">\n" ++ showSubFldsXML subFlds ++ "    </datafield>"
       | format == Just "yaml" = "    -\n" ++ "      " ++ id tag ++ ":\n" ++ "        -\n          ind1: " ++ id ind1 ++ "\n        -\n          ind2: " ++ id ind2 ++ "\n        -\n          subfields:\n" ++ showSubFldsYAML subFlds
+      | format == Just "normal" = "{" ++ id tag ++ "," ++ id ind1 ++ "," ++ id ind2 ++ ",[" ++ showSubFldsNormal subFlds ++ "]}"
       | otherwise = "\t\t\t\t" ++ show tag ++ ":\n\t\t\t\t{\n\t\t\t\t\t\"ind1\":" ++ show ind1 ++ ",\n\t\t\t\t\t\"ind2\":" ++ show ind2 ++ ",\n\t\t\t\t\t\"subfields\":\n\t\t\t\t\t[" ++ showSubFldsJSON subFlds ++ "\n\t\t\t\t\t]\n\t\t\t\t}"
         where showSubFldsJSON [] = ""
               showSubFldsJSON (x:xs)
@@ -141,12 +133,17 @@ instance Show DataField where
               showSubFldsYAML (x:xs)
                 | null xs = show x ++ "\n"
                 | otherwise = show x ++ "\n" ++ showSubFldsYAML xs
+              showSubFldsNormal [] = ""
+              showSubFldsNormal (x:xs)
+                | null xs = show x
+                | otherwise = show x ++ "," ++ showSubFldsNormal xs
                           
 instance Show SubField where
     show (SubField tag value format)
       | format == Just "json" = "\t\t\t\t\t\t\t" ++ show tag ++ ":" ++ show value
       | format == Just "xml" = "      <subfield code=" ++ show tag ++ ">" ++ id value ++ "</subfield>"
       | format == Just "yaml" = "            " ++ id tag ++ ": " ++ id value
+      | format == Just "normal" = "{" ++ show tag ++ ":" ++ show value ++ "}"
       | otherwise = "\t\t\t\t\t\t\t" ++ show tag ++ ":" ++ show value
 
 
@@ -218,10 +215,6 @@ instance A.ToJSON SubField where
     A.Object o -> A.Object (M.delete (fromString "sfFormat") o)
     _ -> error "impossible"
 
--- instance Eq ControlField
--- instance Eq DataField
--- instance Eq SubField
-
 instance Ord ControlField where
   compare (ControlField tag1 _ _) (ControlField tag2 _ _ ) = compare tag1 tag2
 
@@ -230,12 +223,6 @@ instance Ord DataField where
 
 instance Ord SubField where
   compare (SubField tag1 _ _) (SubField tag2 _ _) = compare tag1 tag2
-
-instance A.FromJSON MarcJSON
-instance A.FromJSON ControlFieldJSON
-instance A.FromJSON DataFieldJSON
-instance A.FromJSON DataFieldJSON1
-instance A.FromJSON SubFieldJSON
 
     
 charToString :: Char -> String
@@ -247,15 +234,19 @@ stringToChar s = head s
     
     
 -- Parser
-document :: M.HashMap Name Value -> Format -> Parsec String Int Doc
-document hashMap format = do spaces
---                             res <- many (try (customFormat hashMap format))
---                             res <- try alephSeq
-                             res <- many (try (alephSeq format) <|> try (marc21 format) <|> try (marc21congress format) <|> try (marc21leader format) <|> try (unimarc format) <|> try (unimarcsame format) <|> try (customFormat hashMap format))
-                             spaces
-                             eof
-                             return (Doc res (Just format))
+documentCustom :: M.HashMap Name Value -> Format -> Parsec String Int Doc
+documentCustom hashMap format = do spaces
+                                   res <- many (try (customFormat hashMap format))
+                                   spaces
+                                   eof
+                                   return (Doc res (Just format))
 
+documentPure :: Format -> Parsec String Int Doc
+documentPure format = do spaces
+                         res <- many (try (alephSeq format) <|> try (marc21 format) <|> try (marc21congress format) <|> try (marc21leader format) <|> try (unimarc format) <|> try (unimarcsame format))
+                         spaces
+                         eof
+                         return (Doc res (Just format))
               
 -- Marc21              
 marc21 :: Format -> Parsec String Int Marc
@@ -553,9 +544,6 @@ customControlField hashMap format = do let indSymbol = fromJust (convert (fromJu
                                        spaces
                                        lookAhead (do notFollowedBy (char (stringToChar indSymbol)))
                                        lookAhead (do notFollowedBy (char (stringToChar subFldSymbol)))
-                                       --lookAhead (do count 2 anyChar
-                                       --              spaces
-                                       --              notFollowedBy (char (stringToChar subFldSymbol)))
                                        value <- many (noneOf "\n")
                                        spaces
                                        return (ControlField tag value (Just format))
@@ -656,21 +644,12 @@ listToString (x:xs)
     | otherwise = x ++ " " ++ listToString xs
 
 
-jsonFile :: FilePath
-jsonFile = "output/marc21_out.json"
-
-getJSON :: IO B.ByteString
-getJSON = B.readFile jsonFile
+getJSON :: String -> IO B.ByteString
+getJSON jsonPath = B.readFile jsonPath
     
 
 type Directions = [Int]
 
--- searchControl :: Doc -> String -> Int -> Directions
--- searchControl (Doc [] _) tag idx = []
--- searchControl (Doc (x:xs) format) tag idx
---   | searchResult == [] = searchControl (Doc xs format) tag (idx + 1)
---   | otherwise = idx:searchResult
---   where searchResult = searchControlMarc x tag 0
 
 addControl :: Doc -> ControlField -> Int -> Doc
 addControl (Doc myRecords format) cf marcIdx = (Doc (addControlList cf marcIdx myRecords) format)
@@ -907,41 +886,359 @@ deleteSubfieldDatafield (DataField tag ind1 ind2 sfs format) sfIdx = (DataField 
   where (ys, zs) = splitAt sfIdx sfs
         newList = ys ++ (tail zs)
 
--- main :: IO ()
--- main = do args <- getArgs
---           let input = head (tail args)
---               output = head (tail (tail args))
---               format = head (tail (tail (tail args)))
---           h <- openFile input ReadMode
---           hSetEncoding h utf8
---           cont <- hGetContents h
---           myConfig <- C.load ([C.Required "config.cfg"])
---           myMap <- C.getMap myConfig
---           case (runParser (document myMap format) 0 input cont) of
---             Left err -> putStrLn . show $ err
---             Right rss -> B.writeFile output . P.encodePretty $ rss
+searchAllControl :: Doc -> String -> [ControlField]
+searchAllControl (Doc [] _) _ = []
+searchAllControl (Doc (x:xs) format) tag = (searchAllControlMarc x tag) ++ (searchAllControl (Doc xs format) tag)
 
--- main :: IO ()
--- main = do d <- (A.eitherDecode <$> getJSON) :: IO (Either String Doc)
---           let a = fromRight (Doc [] (Just "")) d
---           myConfig <- C.load ([C.Required "config.cfg"])
---           myMap <- C.getMap myConfig
---           case d of
---             Left err -> putStrLn err
---             Right ps -> writeFile "bleja.txt" (reverseCustomDoc myMap a)
+searchAllControlMarc :: Marc -> String -> [ControlField]
+searchAllControlMarc (Marc _ cfs _ _) tag = map formatChange (filter predicate cfs)
+  where predicate cf = (cfNumberTag cf) == tag
+        formatChange (ControlField tag value _) = (ControlField tag value (Just "normal"))
+
+searchAllData :: Doc -> String -> [DataField]
+searchAllData (Doc [] _) _ = []
+searchAllData (Doc (x:xs) format) tag = (searchAllDataMarc x tag) ++ (searchAllData (Doc xs format) tag)
+
+searchAllDataMarc :: Marc -> String -> [DataField]
+searchAllDataMarc (Marc _ _ dfs _) tag = formatChangeData (filter predicate dfs)
+  where predicate df = (dfNumberTag df) == tag
+
+formatChangeData :: [DataField] -> [DataField]
+formatChangeData [] = []
+formatChangeData (x:xs) = (formatChange x):(formatChangeData xs)
+  where formatChange (DataField tag ind1 ind2 sfs _) = (DataField tag ind1 ind2 (formatChangeSubfield sfs) (Just "normal"))
+
+formatChangeSubfield :: [SubField] -> [SubField]
+formatChangeSubfield [] = []
+formatChangeSubfield (x:xs) = (formatChange x):(formatChangeSubfield xs)
+  where formatChange (SubField tag value _) = SubField tag value (Just "normal")
+
+searchAllSubfields :: Doc -> String -> String -> [SubField]
+searchAllSubfields (Doc [] _) _ _ = []
+searchAllSubfields (Doc (x:xs) format) dfTag sfTag = (searchAllSubfieldsMarc x dfTag sfTag) ++ (searchAllSubfields (Doc xs format) dfTag sfTag)
+
+searchAllSubfieldsMarc :: Marc -> String -> String -> [SubField]
+searchAllSubfieldsMarc (Marc _ _ [] _) _ _ = []
+searchAllSubfieldsMarc (Marc ldr cfs (x:xs) format) dfTag sfTag = (searchAllSubfieldsDatafield x dfTag sfTag) ++ (searchAllSubfieldsMarc (Marc ldr cfs xs format) dfTag sfTag)
+
+searchAllSubfieldsDatafield :: DataField -> String -> String -> [SubField]
+searchAllSubfieldsDatafield (DataField tag _ _ sfs _) dfTag sfTag = if (tag == dfTag) then map formatChange (filter predicate sfs) else []
+  where predicate sf = (fieldTag sf) == sfTag
+        formatChange (SubField tag value _) = SubField tag value (Just "normal")
+
+
+options :: [String]
+options = ["1.Parse known format", "2.Parse custom format", "3.Serialize MARC record in MARC format (from JSON)", "4.Add to MARC record", "5.Update MARC record", "6.Delete from MARC record", "7.Search MARC records", "8.Exit"]
+
+crudOptions :: [String]
+crudOptions = ["1.Control field", "2.Data field", "3.Subfield"]
+
+crudOptionsUpdate :: [String]
+crudOptionsUpdate = ["1.Leader", "2.Control field", "3.Indicator", "4.Subfield"]
 
 main :: IO ()
-main = do args <- getArgs
-          let tag = head (tail args)
-          d <- (A.eitherDecode <$> getJSON) :: IO (Either String Doc)
-          let a = fromRight (Doc [] (Just "")) d
-          case d of
-            Left err -> putStrLn err
-            -- Right ps -> putStrLn . show $ searchDataMarc ((records a) !! 0) tag "a" 0
-            -- Right ps -> writeFile "bleja.txt" . show $ changeData a tag "blejica" "a" 0 1 0
-            -- Right ps -> writeFile "bleja.txt" . show $ changeLeader a tag 0
-            -- Right ps -> writeFile "bleja.txt" . show $ changeInd a tag "ind1" "9" 0 0
-            -- Right ps -> writeFile "bleja.txt" . show $ addData a (DataField "245" "#" "#" [] (Just "json")) 0
-            -- Right ps -> writeFile "bleja.txt" . show $ addSubfield a (SubField "b" "DLC" (Just "json")) "040" 0 0
-            -- Right ps -> writeFile "bleja.txt" . show $ deleteData a "245" 0 0
-            Right ps -> writeFile "bleja.txt" . show $ deleteSubfield a "245" "a" 0 0 0
+main = do putStrLn "What would you like to do?"
+          putStr $ unlines options
+          line <- getLine
+          case line of
+              "1" -> parseKnownFormat
+              "2" -> parseCustomFormat
+              "3" -> serializeRecord
+              "4" -> addOperation
+              "5" -> updateOperation
+              "6" -> deleteOperation
+              "7" -> searchOperation
+              "8" -> putStrLn "Exiting"
+
+parseKnownFormat :: IO ()
+parseKnownFormat = do putStrLn "Enter arguments: (Input file name -> Output file name -> Output format)"
+                      line <- getLine
+                      let lineSplit = words line
+                      let input = head lineSplit
+                          output = head (tail lineSplit)
+                          format = head (tail (tail lineSplit))
+                      h <- openFile input ReadMode
+                      hSetEncoding h utf8
+                      cont <- hGetContents h
+                      case (runParser (documentPure format) 0 input cont) of
+                        Left err -> putStrLn . show $ err
+                        Right rss -> if format == "json" then B.writeFile output . P.encodePretty $ rss else writeFile output . show $ rss
+                      main
+
+parseCustomFormat :: IO ()
+parseCustomFormat = do putStrLn "Enter arguments: (Config file name -> Input file name -> Output file name -> Output format)"
+                       line <- getLine
+                       let lineSplit = words line
+                       let config = head lineSplit
+                           input = head (tail lineSplit)
+                           output = head (tail (tail lineSplit))
+                           format = head (tail (tail (tail lineSplit)))
+                       h <- openFile input ReadMode
+                       hSetEncoding h utf8
+                       cont <- hGetContents h
+                       myConfig <- C.load ([C.Required config])
+                       myMap <- C.getMap myConfig
+                       case (runParser (documentCustom myMap format) 0 input cont) of
+                         Left err -> putStrLn . show $ err
+                         Right rss -> if format == "json" then B.writeFile output . P.encodePretty $ rss else writeFile output . show $ rss
+                       main
+
+serializeRecord :: IO ()
+serializeRecord = do putStrLn "Enter arguments: (Config file name -> Input file name -> Output file name)"
+                     line <- getLine
+                     let lineSplit = words line
+                     let config = head lineSplit
+                         input = head (tail lineSplit)
+                         output = head (tail (tail lineSplit))
+                     d <- (A.eitherDecode <$> getJSON input) :: IO (Either String Doc)
+                     let doc = fromRight (Doc [] (Just "")) d
+                     myConfig <- C.load ([C.Required config])
+                     myMap <- C.getMap myConfig
+                     case d of
+                       Left err -> putStrLn err
+                       Right ps -> writeFile output (reverseCustomDoc myMap doc)
+                     main
+
+addOperation :: IO ()
+addOperation = do putStrLn "What would you like to add?"
+                  putStr $ unlines crudOptions
+                  line <- getLine
+                  case line of
+                    "1" -> addControlOperation
+                    "2" -> addDataOperation
+                    "3" -> addSubfieldOperation
+                  main
+
+addControlOperation :: IO ()
+addControlOperation = do putStrLn "Enter parameters: (File name -> Field tag -> Field value -> Record index)"
+                         line <- getLine
+                         let lineSplit = words line
+                         let fileName = lineSplit !! 0
+                             tag = lineSplit !! 1
+                             value = lineSplit !! 2
+                             index = lineSplit !! 3
+                         d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                         let doc = fromRight (Doc [] (Just "")) d
+                             cf = ControlField tag value (Just "json")
+                             newDoc = addControl doc cf (read index :: Int)
+                         case d of
+                            Left err -> putStrLn err
+                            Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+addDataOperation :: IO ()
+addDataOperation = do putStrLn "Enter parameters: (File name -> Field tag -> Indicator 1 -> Indicator 2 -> Record index)"
+                      line <- getLine
+                      let lineSplit = words line
+                      let fileName = lineSplit !! 0
+                          tag = lineSplit !! 1
+                          ind1 = lineSplit !! 2
+                          ind2 = lineSplit !! 3
+                          index = lineSplit !! 4
+                      d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                      let doc = fromRight (Doc [] (Just "")) d
+                          df = DataField tag ind1 ind2 [] (Just "json")
+                          newDoc = addData doc df (read index :: Int)
+                      case d of
+                         Left err -> putStrLn err
+                         Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+addSubfieldOperation :: IO ()
+addSubfieldOperation = do putStrLn "Enter parameters: (File name -> Field tag -> Field value -> Datafield tag -> Record index -> Datafield offset)"
+                          line <- getLine
+                          let lineSplit = words line
+                          let fileName = lineSplit !! 0
+                              tag = lineSplit !! 1
+                              value = lineSplit !! 2
+                              dfTag = lineSplit !! 3
+                              index = lineSplit !! 4
+                              offset = lineSplit !! 5
+                          d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                          let doc = fromRight (Doc [] (Just "")) d
+                              sf = SubField tag value (Just "json")
+                              newDoc = addSubfield doc sf dfTag (read index :: Int) (read offset :: Int)
+                          case d of
+                             Left err -> putStrLn err
+                             Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+updateOperation :: IO ()
+updateOperation = do putStrLn "What would you like to update?"
+                     putStr $ unlines crudOptionsUpdate
+                     line <- getLine
+                     case line of
+                       "1" -> updateLeaderOperation
+                       "2" -> updateControlOperation
+                       "3" -> updateIndicatorOperation
+                       "4" -> updateSubfieldOperation
+                     main
+
+updateLeaderOperation :: IO ()
+updateLeaderOperation = do putStrLn "Enter parameters: (File name -> New value -> Record index)"
+                           line <- getLine
+                           let lineSplit = words line
+                           let fileName = lineSplit !! 0
+                               value = lineSplit !! 1
+                               index = lineSplit !! 2
+                           d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                           let doc = fromRight (Doc [] (Just "")) d
+                               newDoc = changeLeader doc value (read index :: Int)
+                           case d of
+                              Left err -> putStrLn err
+                              Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+updateControlOperation :: IO ()
+updateControlOperation = do putStrLn "Enter parameters: (File name -> Field tag -> New value -> Record index -> Datafield offset)"
+                            line <- getLine
+                            let lineSplit = words line
+                            let fileName = lineSplit !! 0
+                                tag = lineSplit !! 1
+                                value = lineSplit !! 2
+                                index = lineSplit !! 3
+                                offset = lineSplit !! 4
+                            d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                            let doc = fromRight (Doc [] (Just "")) d
+                                newDoc = changeControl doc tag value (read index :: Int) (read offset :: Int)
+                            case d of
+                               Left err -> putStrLn err
+                               Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+updateIndicatorOperation :: IO ()
+updateIndicatorOperation = do putStrLn "Enter parameters: (File name -> Datafield tag -> Label -> New value -> Record index -> Datafield offset)"
+                              line <- getLine
+                              let lineSplit = words line
+                              let fileName = lineSplit !! 0
+                                  dfTag = lineSplit !! 1
+                                  label = lineSplit !! 2
+                                  value = lineSplit !! 3
+                                  index = lineSplit !! 4
+                                  offset = lineSplit !! 5
+                              d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                              let doc = fromRight (Doc [] (Just "")) d
+                                  newDoc = changeInd doc dfTag label value (read index :: Int) (read offset :: Int)
+                              case d of
+                                 Left err -> putStrLn err
+                                 Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+updateSubfieldOperation :: IO ()
+updateSubfieldOperation = do putStrLn "Enter parameters: (File name -> Datafield tag -> Subfield tag -> New value -> Record index -> Datafield offset -> Subfield offset)"
+                             line <- getLine
+                             let lineSplit = words line
+                             let fileName = lineSplit !! 0
+                                 dfTag = lineSplit !! 1
+                                 sfTag = lineSplit !! 2
+                                 value = lineSplit !! 3
+                                 index = lineSplit !! 4
+                                 dfOffset = lineSplit !! 5
+                                 sfOffset = lineSplit !! 6
+                             d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                             let doc = fromRight (Doc [] (Just "")) d
+                                 newDoc = changeData doc dfTag sfTag value (read index :: Int) (read dfOffset :: Int) (read sfOffset :: Int)
+                             case d of
+                                Left err -> putStrLn err
+                                Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+deleteOperation :: IO ()
+deleteOperation = do putStrLn "What would you like to delete?"
+                     putStr $ unlines crudOptions
+                     line <- getLine
+                     case line of
+                       "1" -> deleteControlOperation
+                       "2" -> deleteDataOperation
+                       "3" -> deleteSubfieldOperation
+                     main
+
+deleteControlOperation :: IO ()
+deleteControlOperation = do putStrLn "Enter parameters: (File name -> Field tag -> Record index -> Field offset)"
+                            line <- getLine
+                            let lineSplit = words line
+                            let fileName = lineSplit !! 0
+                                tag = lineSplit !! 1
+                                index = lineSplit !! 2
+                                offset = lineSplit !! 3
+                            d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                            let doc = fromRight (Doc [] (Just "")) d
+                                newDoc = deleteControl doc tag (read index :: Int) (read offset :: Int)
+                            case d of
+                               Left err -> putStrLn err
+                               Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+deleteDataOperation :: IO ()
+deleteDataOperation = do putStrLn "Enter parameters: (File name -> Field tag -> Record index -> Field offset)"
+                         line <- getLine
+                         let lineSplit = words line
+                         let fileName = lineSplit !! 0
+                             tag = lineSplit !! 1
+                             index = lineSplit !! 2
+                             offset = lineSplit !! 3
+                         d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                         let doc = fromRight (Doc [] (Just "")) d
+                             newDoc = deleteData doc tag (read index :: Int) (read offset :: Int)
+                         case d of
+                            Left err -> putStrLn err
+                            Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+deleteSubfieldOperation :: IO ()
+deleteSubfieldOperation = do putStrLn "Enter parameters: (File name -> Datafield tag -> Subfield tag -> Record index -> Datafield offset -> Subfield offset)"
+                             line <- getLine
+                             let lineSplit = words line
+                             let fileName = lineSplit !! 0
+                                 dfTag = lineSplit !! 1
+                                 sfTag = lineSplit !! 2
+                                 index = lineSplit !! 3
+                                 dfOffset = lineSplit !! 4
+                                 sfOffset = lineSplit !! 5
+                             d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                             let doc = fromRight (Doc [] (Just "")) d
+                                 newDoc = deleteSubfield doc dfTag sfTag (read index :: Int) (read dfOffset :: Int) (read sfOffset :: Int)
+                             case d of
+                                Left err -> putStrLn err
+                                Right ps -> B.writeFile fileName . P.encodePretty $ newDoc
+
+searchOperation :: IO ()
+searchOperation = do putStrLn "What would you like to search for?"
+                     putStr $ unlines crudOptions
+                     line <- getLine
+                     case line of
+                       "1" -> searchControlOperation
+                       "2" -> searchDataOperation
+                       "3" -> searchSubfieldOperation
+                     main
+
+searchControlOperation :: IO ()
+searchControlOperation = do putStrLn "Enter parameters: (File name -> Field tag)"
+                            line <- getLine
+                            let lineSplit = words line
+                            let fileName = lineSplit !! 0
+                                tag = lineSplit !! 1
+                            d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                            let doc = fromRight (Doc [] (Just "")) d
+                                cfs = searchAllControl doc tag
+                            case d of
+                               Left err -> putStrLn err
+                               Right ps -> putStrLn . show $ cfs
+
+searchDataOperation :: IO ()
+searchDataOperation = do putStrLn "Enter parameters: (File name -> Field tag)"
+                         line <- getLine
+                         let lineSplit = words line
+                         let fileName = lineSplit !! 0
+                             tag = lineSplit !! 1
+                         d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                         let doc = fromRight (Doc [] (Just "")) d
+                             dfs = searchAllData doc tag
+                         case d of
+                            Left err -> putStrLn err
+                            Right ps -> putStrLn . show $ dfs
+
+searchSubfieldOperation :: IO ()
+searchSubfieldOperation = do putStrLn "Enter parameters: (File name -> Datafield tag -> Subfield tag)"
+                             line <- getLine
+                             let lineSplit = words line
+                             let fileName = lineSplit !! 0
+                                 dfTag = lineSplit !! 1
+                                 sfTag = lineSplit !! 2
+                             d <- (A.eitherDecode <$> getJSON fileName) :: IO (Either String Doc)
+                             let doc = fromRight (Doc [] (Just "")) d
+                                 sfs = searchAllSubfields doc dfTag sfTag
+                             case d of
+                                Left err -> putStrLn err
+                                Right ps -> putStrLn . show $ sfs

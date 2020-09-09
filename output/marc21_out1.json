@@ -1,0 +1,294 @@
+{
+    "records": [
+        {
+            "leader": {
+                "leaderValue": "blejica"
+            },
+            "controlfields": [
+                {
+                    "cfNumberTag": "001",
+                    "controlValue": "92005291"
+                },
+                {
+                    "cfNumberTag": "003",
+                    "controlValue": "DLC"
+                },
+                {
+                    "cfNumberTag": "005",
+                    "controlValue": "19930521155141.9"
+                },
+                {
+                    "cfNumberTag": "008",
+                    "controlValue": "920219s1993 caua j 000 0 eng"
+                }
+            ],
+            "datafields": [
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "92005291"
+                        }
+                    ],
+                    "dfNumberTag": "010",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "0152038655 :"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": ""
+                        },
+                        {
+                            "fieldTag": "1",
+                            "fieldValue": "5.95"
+                        }
+                    ],
+                    "dfNumberTag": "020",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "DLC"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "DLC"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "DLC"
+                        }
+                    ],
+                    "dfNumberTag": "040",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "lcac"
+                        }
+                    ],
+                    "dfNumberTag": "042",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "PS3537.A618"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "A88 1993"
+                        }
+                    ],
+                    "dfNumberTag": "050",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "0",
+                    "subfields": [
+                        {
+                            "fieldTag": "2",
+                            "fieldValue": "20"
+                        },
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "811/.52"
+                        }
+                    ],
+                    "dfNumberTag": "082",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Sandburg, Carl,"
+                        },
+                        {
+                            "fieldTag": "d",
+                            "fieldValue": "1878-1967."
+                        }
+                    ],
+                    "dfNumberTag": "100",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "Carl Sandburg ; illustrated as an anamorphic adventure by Ted Rand."
+                        }
+                    ],
+                    "dfNumberTag": "245",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "1st ed."
+                        }
+                    ],
+                    "dfNumberTag": "250",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "San Diego :"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "Harcourt Brace Jovanovich,"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "c1993."
+                        }
+                    ],
+                    "dfNumberTag": "260",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "1 v. (unpaged) :"
+                        },
+                        {
+                            "fieldTag": "b",
+                            "fieldValue": "ill. (some col.) ;"
+                        },
+                        {
+                            "fieldTag": "c",
+                            "fieldValue": "26 cm."
+                        }
+                    ],
+                    "dfNumberTag": "300",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "One Mylar sheet included in pocket."
+                        }
+                    ],
+                    "dfNumberTag": "500",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "A poem about numbers and their characteristics. Features anamorphic, or distorted, drawings which can be restored to normal by viewing from a particular angle or by viewing the image's reflection in the provided Mylar cone."
+                        }
+                    ],
+                    "dfNumberTag": "520",
+                    "ind2": "#"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Arithmetic"
+                        },
+                        {
+                            "fieldTag": "x",
+                            "fieldValue": "Juvenile poetry."
+                        }
+                    ],
+                    "dfNumberTag": "650",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Children's poetry, American."
+                        }
+                    ],
+                    "dfNumberTag": "650",
+                    "ind2": "0"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Arithmetic"
+                        },
+                        {
+                            "fieldTag": "x",
+                            "fieldValue": "Poetry."
+                        }
+                    ],
+                    "dfNumberTag": "650",
+                    "ind2": "1"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "American poetry."
+                        }
+                    ],
+                    "dfNumberTag": "650",
+                    "ind2": "1"
+                },
+                {
+                    "ind1": "#",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Visual perception."
+                        }
+                    ],
+                    "dfNumberTag": "650",
+                    "ind2": "1"
+                },
+                {
+                    "ind1": "1",
+                    "subfields": [
+                        {
+                            "fieldTag": "a",
+                            "fieldValue": "Rand, Ted,"
+                        },
+                        {
+                            "fieldTag": "e",
+                            "fieldValue": "ill."
+                        }
+                    ],
+                    "dfNumberTag": "700",
+                    "ind2": "#"
+                }
+            ]
+        }
+    ]
+}
